@@ -1,0 +1,72 @@
+baseURL = "https://inposamaster.github.io/appraisal-note/"
+locale = "ko-kr"
+defaultContentLanguage = "ko"
+title = "감정평가 노트"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages.ko]
+  label = "한국어"
+  weight = 1
+  title = "감정평가 노트"
+
+  [languages.ko.params]
+    description = "감정평가, 부동산 가치, 상속·증여, 경매 감정평가를 쉽게 정리하는 실무형 노트"
+
+[params]
+  env = "production"
+  description = "감정평가, 부동산 가치, 상속·증여, 경매 감정평가를 쉽게 정리하는 실무형 노트"
+  keywords = ["감정평가", "부동산 가치", "상속", "증여", "경매 감정평가"]
+  author = "감정평가 노트"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  TocOpen = false
+
+[[menu.main]]
+  identifier = "posts"
+  name = "글"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "태그"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "archives"
+  name = "아카이브"
+  url = "/archives/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "search"
+  name = "검색"
+  url = "/search/"
+  weight = 40
+
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 100
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "permalink", "summary", "content"]
