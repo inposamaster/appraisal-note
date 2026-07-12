@@ -78,6 +78,11 @@ buildExpired = false
   [params.footer]
     disclaimer = "일반 정보 안내 목적입니다. 세무·법률·감정평가 판단은 전문가와 확인하세요."
 
+  # AdSense (승인 전에도 <head> 코드·ads.txt 배치 — Google 안내)
+  [params.adsense]
+    publisher = "ca-pub-6632240269170834"
+    enabled = true
+
   [params.homeInfoParams]
     Eyebrow = "내 집 마련을 위하여"
     Title = "부동산 감정평가, 공부한 것과 책상에 남긴 것을 기록합니다"
