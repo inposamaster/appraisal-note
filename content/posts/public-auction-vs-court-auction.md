@@ -12,14 +12,14 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 
 **공매와 법원경매 모두 「감정가·평가액」 숫자가 나오지만, 누가 매각하고 어디서 조회하느냐가 다릅니다.** 법원경매 경험만으로 공매를 읽거나, 그 반대로 보기 쉬워 **절차·권리·입찰 규칙**을 구분하는 편이 안전합니다.
 
-[법원경매 감정가](/appraisal-note/posts/auction-appraisal-price-guide/) 글과 짝을 이룹니다.
+[법원경매 감정가](/posts/auction-appraisal-price-guide/) 글과 짝을 이룹니다.
 
 > **핵심 요약**
 >
 > - **법원경매** = 대법원 **법원경매정보**, 법원 절차 중심
 > - **공매** = **온비드** 등 공공기관·공기업 매각, 규정·사이트 별도
 > - 감정가·최저가·낙찰가 **산정 방식**이 같지 않음
-> - 입찰 전 **등기·현황·임대** 확인은 [공통](/appraisal-note/posts/registry-read-inheritance-appraisal/)
+> - 입찰 전 **등기·현황·임대** 확인은 [공통](/posts/registry-read-inheritance-appraisal/)
 
 *기준일: 2026년 7월.*
 
@@ -46,7 +46,7 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 
 같은 아파트라도 **목적·기준일·권리 반영**에 따라 숫자가 다를 수 있습니다.
 
-![법원경매 vs 공매—감정평가 관점 비교](/appraisal-note/images/public-vs-court-auction-compare.png)
+![법원경매 vs 공매—감정평가 관점 비교](/images/public-vs-court-auction-compare.png)
 
 *도식: 조회처와 매각 주체가 다릅니다 (2026년 7월 기준).*
 
@@ -61,7 +61,7 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 | 3 | **임대·점유** | 현황조사 vs **입찰 공고** |
 | 4 | 주변 **실거래**와 괴리 감 | 동일 |
 
-![공매·법원경매—감정가 확인 흐름](/appraisal-note/images/public-vs-court-auction-flow.png)
+![공매·법원경매—감정가 확인 흐름](/images/public-vs-court-auction-flow.png)
 
 *도식: 평가액 확인 후 등기·현황은 공통입니다 (2026년 7월 기준).*
 
@@ -74,7 +74,7 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 - **배경:** 법원경매에서 **최저가·회차**에 익숙. 온비드 물건 첫 조회.
 - **읽는 법:** **유찰·가격 하향** 규칙이 법원과 **다를 수** 있다. 공고문을 읽는다.
 - **감정평가:** 평가액 명칭은 비슷해도 **산정 맥락**은 별도.
-- **실무 포인트:** [경매 감정가 글](/appraisal-note/posts/auction-appraisal-price-guide/)의 「세 숫자」를 공매 **입찰 안내**와 대조한다.
+- **실무 포인트:** [경매 감정가 글](/posts/auction-appraisal-price-guide/)의 「세 숫자」를 공매 **입찰 안내**와 대조한다.
 
 ### 상황 2: 같은 단지—법원·공매 동시 검색
 
@@ -86,11 +86,11 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 ### 상황 3: 상속재산 처분—공매 매각 검토
 
 - **배경:** 상속인이 **공매**로 부동산 처분 검토. 「시가」와 평가액 비교.
-- **읽는 법:** [상속 평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 **매각 가액**은 별개.
+- **읽는 법:** [상속 평가 순서](/posts/official-price-inheritance-tax-filing/)와 **매각 가액**은 별개.
 - **감정평가:** 상속 **신고용** 감정과 **매각용** 참고가 다를 수 있다.
 - **실무 포인트:** **목적**을 의뢰서에 명시한다.
 
-![공매·법원경매—세 가지 입문 패턴](/appraisal-note/images/public-vs-court-auction-scenarios.png)
+![공매·법원경매—세 가지 입문 패턴](/images/public-vs-court-auction-scenarios.png)
 
 *도식: 경험·물건·목적에 따라 읽는 초점이 다릅니다 (2026년 7월 기준).*
 
@@ -104,7 +104,7 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 
 - 법원경매 **최저가 비율**을 공매에 그대로 적용
 - **감정가 = 시세**로 단정
-- [전세·임대](/appraisal-note/posts/jeonse-deposit-appraisal-when/)를 「평가액에 반영됐겠지」로 생략
+- [전세·임대](/posts/jeonse-deposit-appraisal-when/)를 「평가액에 반영됐겠지」로 생략
 
 ---
 
@@ -116,7 +116,7 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 
 ### Q. 공매 감정가로 상속세를 신고할 수 있나요?
 
-상속 **시가** 논의는 [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)를 따릅니다. 공매 평가액이 **자동으로** 신고가가 되지 않습니다.
+상속 **시가** 논의는 [평가 순서](/posts/official-price-inheritance-tax-filing/)를 따릅니다. 공매 평가액이 **자동으로** 신고가가 되지 않습니다.
 
 ### Q. 어느 쪽이 더 유리한가요?
 
@@ -124,6 +124,6 @@ summary: "공매와 법원경매에서 감정가·평가액을 보는 관점 차
 
 ---
 
-공매든 법원경매든 **평가액 → 등기 → 현황·임대 → 시장** 순서는 같습니다. [법원경매 감정가](/appraisal-note/posts/auction-appraisal-price-guide/) 글과 함께 보세요.
+공매든 법원경매든 **평가액 → 등기 → 현황·임대 → 시장** 순서는 같습니다. [법원경매 감정가](/posts/auction-appraisal-price-guide/) 글과 함께 보세요.
 
 **참고:** [대법원 법원경매정보](https://www.courtauction.go.kr) · [온비드](https://www.onbid.co.kr)

@@ -35,7 +35,7 @@ H2는 **고정 1~5가 아니라** `content_type`에 맞게 4~6개를 고른다.
 6. **마무리** + YMYL 고지문
 
 인사말·특정 사무소명 금지.  
-「감정평가란」 기초 설명은 2문장 이내 → [감정평가 기초 소개](/appraisal-note/posts/what-is-real-estate-appraisal/) 링크.
+「감정평가란」 기초 설명은 2문장 이내 → [감정평가 기초 소개](/posts/what-is-real-estate-appraisal/) 링크.
 
 ---
 

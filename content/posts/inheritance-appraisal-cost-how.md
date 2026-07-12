@@ -12,7 +12,7 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 
 **상속 감정평가 비용은 전국 단일 요율표로 고정되지 않고, 물건·권리·목적·일정에 따라 달라질 수 있습니다.** 「아파트 상속이면 얼마」처럼 한 숫자로 답하기 어렵고, **견적 전에 무엇을 보내 주느냐**에 따라 범위도 달라집니다.
 
-[상속 신고 가액·평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)는 다른 글에 두었습니다. 여기서는 **비용이 갈리는 이유**와 의뢰 전 **견적을 좁히는 방법**만 정리합니다.
+[상속 신고 가액·평가 순서](/posts/official-price-inheritance-tax-filing/)는 다른 글에 두었습니다. 여기서는 **비용이 갈리는 이유**와 의뢰 전 **견적을 좁히는 방법**만 정리합니다.
 
 > **핵심 요약**
 >
@@ -32,7 +32,7 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 > 「아파트 한 채인가요, 토지·상가가 섞였나요?」  
 > 「전세권·근저당이 등기에 있나요?」
 
-같은 「상속 감정평가」라도 **조사 범위**가 다르면 견적도 달라질 수 있습니다. [등기 확인](/appraisal-note/posts/registry-read-inheritance-appraisal/)을 먼저 해 두면 상담이 한 번에 끝나는 경우가 많습니다.
+같은 「상속 감정평가」라도 **조사 범위**가 다르면 견적도 달라질 수 있습니다. [등기 확인](/posts/registry-read-inheritance-appraisal/)을 먼저 해 두면 상담이 한 번에 끝나는 경우가 많습니다.
 
 ---
 
@@ -50,7 +50,7 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 
 「비싼 동네라서」만으로 비용이 정해지는 것은 아니고, **무엇을 조사·산출해야 하는지**가 더 큰 변수인 경우가 많습니다.
 
-![상속 감정평가 비용—주요 결정 요인](/appraisal-note/images/inheritance-appraisal-cost-factors.png)
+![상속 감정평가 비용—주요 결정 요인](/images/inheritance-appraisal-cost-factors.png)
 
 *도식: 유형·권리·건수·목적·일정이 견적 범위에 영향을 줄 수 있습니다 (2026년 7월 기준).*
 
@@ -69,7 +69,7 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 
 아파트 기준 견적을 **토지·상가**에 그대로 기대하면, 조사 범위가 달라 **재견적**이 나오는 패턴이 있습니다.
 
-![유형별 상속 감정평가—비용에 영향을 주는 조사 범위](/appraisal-note/images/inheritance-appraisal-cost-by-type.png)
+![유형별 상속 감정평가—비용에 영향을 주는 조사 범위](/images/inheritance-appraisal-cost-by-type.png)
 
 *도식: 유형마다 조사·권리분석 비중이 다릅니다 (2026년 7월 기준).*
 
@@ -83,13 +83,13 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 
 - **배경:** 공동주택 한 호, 을구에 **담보·전세권 없음**, 상속등기 완료.
 - **읽는 법:** 조사가 **표준적**인 경우가 많다. 다만 **평가기준일·신고 맥락**에 따라 산출 근거 분량은 달라질 수 있다.
-- **감정평가:** [상속개시일](/appraisal-note/posts/inheritance-start-date-appraisal/)·[평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 맞춘 뒤 의뢰하면 견적 범위가 좁혀진다.
+- **감정평가:** [상속개시일](/posts/inheritance-start-date-appraisal/)·[평가 순서](/posts/official-price-inheritance-tax-filing/)와 맞춘 뒤 의뢰하면 견적 범위가 좁혀진다.
 - **실무 포인트:** 동·호·면적을 **건축물대장과 대조**해 두면 견적 문의가 빠르다.
 
 ### 상황 2: 토지 + 건물, 임차인 있음
 
 - **배경:** 상가주택, **임대차** 여러 건, 등기에 근저당·전세권 병기.
-- **읽는 법:** **권리·수익 조사** 비중이 커질 수 있다. [등기](/appraisal-note/posts/registry-read-inheritance-appraisal/) 을구를 먼저 정리한다.
+- **읽는 법:** **권리·수익 조사** 비중이 커질 수 있다. [등기](/posts/registry-read-inheritance-appraisal/) 을구를 먼저 정리한다.
 - **감정평가:** 수익법·권리분석이 들어가면 **아파트 단순 견적**과 범위가 다르다.
 - **실무 포인트:** 임대차계약서 **건수·보증금**을 목록으로 보내 주면 범위 협의가 수월하다.
 
@@ -97,16 +97,16 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 
 - **배경:** 토지 3필지 + 주택 1동, 상속인 **다수**.
 - **읽는 법:** **건수·보고서 구성**(일괄 vs 분리)에 따라 견적이 달라진다.
-- **감정평가:** 의뢰 주체·대표 상속인·[토지이용계획](/appraisal-note/posts/land-use-plan-appraisal-points/) 필지별 차이를 먼저 맞춘다.
+- **감정평가:** 의뢰 주체·대표 상속인·[토지이용계획](/posts/land-use-plan-appraisal-points/) 필지별 차이를 먼저 맞춘다.
 - **실무 포인트:** 지번·면적 **목록**을 먼저 주시면 「몇 건 평가인지」부터 맞출 수 있다.
 
-![상속 감정평가 견적—세 가지 상황](/appraisal-note/images/inheritance-appraisal-cost-scenarios.png)
+![상속 감정평가 견적—세 가지 상황](/images/inheritance-appraisal-cost-scenarios.png)
 
 *도식: 권리·건수·유형에 따라 조사 범위가 달라질 수 있습니다 (2026년 7월 기준).*
 
 > **주의**
 >
-> 「감정평가를 받으면 **세금이 줄어든다**」고 비용만 보고 결정하면 실망하는 경우가 있습니다. 비용과 별개로 [신고 가액·평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)를 먼저 보는 편이 낫습니다. 견적 비교 시 **포함 항목**(현장 조사·권리분석·보고서 부수·수정 횟수)을 함께 확인하세요.
+> 「감정평가를 받으면 **세금이 줄어든다**」고 비용만 보고 결정하면 실망하는 경우가 있습니다. 비용과 별개로 [신고 가액·평가 순서](/posts/official-price-inheritance-tax-filing/)를 먼저 보는 편이 낫습니다. 견적 비교 시 **포함 항목**(현장 조사·권리분석·보고서 부수·수정 횟수)을 함께 확인하세요.
 
 ---
 
@@ -137,7 +137,7 @@ summary: "상속 감정평가 비용이 달라지는 주요 요인과 의뢰 전
 
 ### Q. 공시가격만으로 신고할 계획인데도 견적을 받아야 하나요?
 
-[평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)상 **시가·유사매매**가 잡히면 공시만으로 가기 어려운 경우가 있습니다. 견적 문의 자체가 「감정이 필요한지」 판단의 일부가 되기도 합니다.
+[평가 순서](/posts/official-price-inheritance-tax-filing/)상 **시가·유사매매**가 잡히면 공시만으로 가기 어려운 경우가 있습니다. 견적 문의 자체가 「감정이 필요한지」 판단의 일부가 되기도 합니다.
 
 ---
 

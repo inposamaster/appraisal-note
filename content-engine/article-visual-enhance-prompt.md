@@ -21,7 +21,7 @@
 | 3 | **상황·유형** | 3가지 케이스·유형별 갈림 | `{slug}-scenarios.png` |
 
 - 저장: `static/images/`
-- 본문 삽입: `![alt 텍스트](/appraisal-note/images/파일명.png)` + 이탤릭 캡션 1줄 (기준일)
+- 본문 삽입: `![alt 텍스트](/images/파일명.png)` + 이탤릭 캡션 1줄 (기준일)
 - Mermaid는 **초안·검수용** — 발행 전 **1번 흐름도 PNG로 교체** (또는 Mermaid 없이 PNG만)
 - 스타일: 흰 배경, 그린 포인트 `#166534`, 플랫 인포그래픽, **스크린샷·실사 금지**
 
@@ -50,7 +50,7 @@
 6. **상황·유형** — 글의 3가지 케이스·유형 → `static/images/{target_slug}-scenarios.png`
 
 각 이미지마다:
-- 본문 적절한 위치에 `![alt](/appraisal-note/images/....png)` 삽입
+- 본문 적절한 위치에 `![alt](/images/....png)` 삽입
 - alt: 그림을 한 문장으로 (키워드 1회 자연스럽게)
 - 바로 아래 이탤릭 캡션 1줄 (`*도식: … (YYYY년 M월 기준).*`)
 

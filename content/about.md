@@ -25,11 +25,11 @@ description: "감정평가 사무소 현장에서 자주 듣는 부동산 감정
 </div>
 
 <div class="trust-links">
-  <a class="trust-link-card" href="/appraisal-note/contact/">
+  <a class="trust-link-card" href="/contact/">
     <span class="trust-link-title">연락처</span>
     <span class="trust-link-desc">오류 제보·문의</span>
   </a>
-  <a class="trust-link-card" href="/appraisal-note/privacy/">
+  <a class="trust-link-card" href="/privacy/">
     <span class="trust-link-title">개인정보처리방침</span>
     <span class="trust-link-desc">쿠키·광고 안내</span>
   </a>

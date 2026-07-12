@@ -12,7 +12,7 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 
 **전세 보증금 감정평가**는 「집 전체 가치」가 아니라, **임대차·전세권·보증금 반환** 등과 관련해 **가액 산정이 필요할 때** 검토됩니다. 일반 매매 감정과 **목적·범위**가 다를 수 있습니다.
 
-[감정평가 기본](/appraisal-note/posts/what-is-real-estate-appraisal/) · [등기에서 전세권](/appraisal-note/posts/registry-read-inheritance-appraisal/) 글과 연결됩니다.
+[감정평가 기본](/posts/what-is-real-estate-appraisal/) · [등기에서 전세권](/posts/registry-read-inheritance-appraisal/) 글과 연결됩니다.
 
 > **핵심 요약**
 >
@@ -51,7 +51,7 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 
 「전세」라는 단어만으로 **무조건** 감정이 필요한 것은 아닙니다.
 
-![전세 보증금 감정평가—검토되는 상황](/appraisal-note/images/jeonse-appraisal-when-flow.png)
+![전세 보증금 감정평가—검토되는 상황](/images/jeonse-appraisal-when-flow.png)
 
 *도식: 목적에 따라 전세·임대 관련 감정이 검토됩니다 (2026년 7월 기준).*
 
@@ -67,7 +67,7 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 
 상속 건에서 집 가치만 감정하고, **전세 보증금·전세권**을 놓치면 나중에 **권리분석**을 다시 하는 경우가 있습니다.
 
-![소유권 감정 vs 전세·임대 관계](/appraisal-note/images/jeonse-vs-ownership-appraisal.png)
+![소유권 감정 vs 전세·임대 관계](/images/jeonse-vs-ownership-appraisal.png)
 
 *도식: 평가 목적에 따라 보는 층이 다릅니다 (2026년 7월 기준).*
 
@@ -81,7 +81,7 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 | 2 | **확정일자**·점유 여부 |
 | 3 | 등기 **전세권** 설정·말소 |
 | 4 | 의뢰 **목적**(상속·분쟁·기타) |
-| 5 | [등기 을구](/appraisal-note/posts/registry-read-inheritance-appraisal/) 메모 |
+| 5 | [등기 을구](/posts/registry-read-inheritance-appraisal/) 메모 |
 
 ---
 
@@ -92,8 +92,8 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 ### 상황 1: 상속—전세권 등기 있음
 
 - **배경:** 을구에 전세권 3억 설정. 상속인은 **집값만** 감정받고 싶어 한다.
-- **읽는 법:** [등기 을구](/appraisal-note/posts/registry-read-inheritance-appraisal/)에 전세권이 있으면, **소유권 가치**와 **임대·전세 관계**를 함께 봐야 할 수 있다.
-- **감정평가:** 범위에 **권리분석**이 들어가면 조사·[비용](/appraisal-note/posts/inheritance-appraisal-cost-how/)이 달라진다.
+- **읽는 법:** [등기 을구](/posts/registry-read-inheritance-appraisal/)에 전세권이 있으면, **소유권 가치**와 **임대·전세 관계**를 함께 봐야 할 수 있다.
+- **감정평가:** 범위에 **권리분석**이 들어가면 조사·[비용](/posts/inheritance-appraisal-cost-how/)이 달라진다.
 - **실무 포인트:** 등기 PDF와 임대차계약 **보증금·만기**를 한 메모에 적어 의뢰한다.
 
 ### 상황 2: 계약만 있고 전세권 등기 없음
@@ -105,12 +105,12 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 
 ### 상황 3: 경매 관심 물건—현황조사 임차
 
-- **배경:** 법원경매정보 현황조사에 **임차** 표시. [경매 감정가](/appraisal-note/posts/auction-appraisal-price-guide/)는 이미 봤다.
+- **배경:** 법원경매정보 현황조사에 **임차** 표시. [경매 감정가](/posts/auction-appraisal-price-guide/)는 이미 봤다.
 - **읽는 법:** 감정가에 임대가 **얼마나 반영됐는지**는 물건마다 다르다. **배당·명도**는 별도 계산.
 - **감정평가:** 경매용 감정과 **전세 보증금만** 따지는 감정은 목적이 다르다.
 - **실무 포인트:** 현황조사 **임차란**·보증금·확정일자를 감정가 메모에 붙인다.
 
-![전세·임대—세 가지 의뢰 패턴](/appraisal-note/images/jeonse-appraisal-scenarios.png)
+![전세·임대—세 가지 의뢰 패턴](/images/jeonse-appraisal-scenarios.png)
 
 *도식: 등기·계약·목적 조합에 따라 범위가 달라집니다 (2026년 7월 기준).*
 
@@ -132,10 +132,10 @@ summary: "전세 보증금 감정평가가 검토되는 상황과 의뢰 전 확
 
 ### Q. 전세 감정과 매매 감정 비용이 같나요?
 
-[비용 요인](/appraisal-note/posts/inheritance-appraisal-cost-how/)처럼 **범위·권리**에 따라 달라질 수 있습니다.
+[비용 요인](/posts/inheritance-appraisal-cost-how/)처럼 **범위·권리**에 따라 달라질 수 있습니다.
 
 ---
 
-전세는 **등기·계약·목적** 세 가지를 먼저 정리한 뒤 의뢰하는 편이 낫습니다. [등기부등본 읽기](/appraisal-note/posts/registry-read-inheritance-appraisal/)에서 을구부터 확인해 보세요.
+전세는 **등기·계약·목적** 세 가지를 먼저 정리한 뒤 의뢰하는 편이 낫습니다. [등기부등본 읽기](/posts/registry-read-inheritance-appraisal/)에서 을구부터 확인해 보세요.
 
 **참고:** [주택임대차보호법](https://www.law.go.kr/법령/주택임대차보호법) · [감정평가에 관한 법률](https://www.law.go.kr/법령/감정평가에관한법률)

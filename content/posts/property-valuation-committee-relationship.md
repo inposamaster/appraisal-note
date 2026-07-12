@@ -12,7 +12,7 @@ summary: "재산평가심의위원회와 민간 감정평가의 역할 차이를
 
 **재산평가심의위원회**(이하 심의위)와 **민간 감정평가사**는 이름만 비슷해 보여도 **주체·절차·쓰임**이 다릅니다. 상속·증여에서 「심의위 감정」과 「사무소 감정」을 **같은 것**으로 이해하면 혼선이 생깁니다.
 
-[국세청 가액 검토](/appraisal-note/posts/nts-appraisal-target-cases/) · [감정평가 기본](/appraisal-note/posts/what-is-real-estate-appraisal/)과 연결됩니다.
+[국세청 가액 검토](/posts/nts-appraisal-target-cases/) · [감정평가 기본](/posts/what-is-real-estate-appraisal/)과 연결됩니다.
 
 > **핵심 요약**
 >
@@ -40,10 +40,10 @@ summary: "재산평가심의위원회와 민간 감정평가의 역할 차이를
 |---|---|---|
 | **주체** | 감정평가 **법인** | **위원회** (세무 맥락) |
 | **시작** | **의뢰인** 요청 | **절차**에 따라 |
-| **결과** | [감정평가서](/appraisal-note/posts/appraisal-report-reading-basics/) | 심의·평가 **결과** (사건별) |
+| **결과** | [감정평가서](/posts/appraisal-report-reading-basics/) | 심의·평가 **결과** (사건별) |
 | **상속에서** | 시가 **입증** 자료 | 가액 **심의** 맥락 |
 
-![민간 감정 vs 심의위](/appraisal-note/images/property-committee-vs-private.png)
+![민간 감정 vs 심의위](/images/property-committee-vs-private.png)
 
 *도식: 의뢰 주체와 절차가 다릅니다 (2026년 7월 기준).*
 
@@ -53,13 +53,13 @@ summary: "재산평가심의위원회와 민간 감정평가의 역할 차이를
 
 | 단계 | 관련 개념 |
 |---|---|
-| 신고 전 | [민간 감정](/appraisal-note/posts/inheritance-appraisal-cost-how/) 검토 |
-| 신고 | [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)·[감정서 활용](/appraisal-note/posts/appraisal-report-tax-filing-use/) |
-| 신고 후 | [국세청 검토](/appraisal-note/posts/nts-appraisal-target-cases/)·**심의위** 논의 가능 |
+| 신고 전 | [민간 감정](/posts/inheritance-appraisal-cost-how/) 검토 |
+| 신고 | [평가 순서](/posts/official-price-inheritance-tax-filing/)·[감정서 활용](/posts/appraisal-report-tax-filing-use/) |
+| 신고 후 | [국세청 검토](/posts/nts-appraisal-target-cases/)·**심의위** 논의 가능 |
 
 **심의위가 항상 개입**하는 것은 아닙니다.
 
-![심의위—상속 맥락 흐름](/appraisal-note/images/property-committee-inheritance-flow.png)
+![심의위—상속 맥락 흐름](/images/property-committee-inheritance-flow.png)
 
 *도식: 신고 전·후에 등장하는 주체가 다릅니다 (2026년 7월 기준).*
 
@@ -69,8 +69,8 @@ summary: "재산평가심의위원회와 민간 감정평가의 역할 차이를
 
 ### 상황 1: 신고 전—민간 감정만
 
-- **배경:** [유사매매](/appraisal-note/posts/similar-transaction-appraisal-needed/) 부족, 사전 감정.
-- **읽는 법:** **민간** 보고서로 [세무 신고](/appraisal-note/posts/appraisal-report-tax-filing-use/) 논의.
+- **배경:** [유사매매](/posts/similar-transaction-appraisal-needed/) 부족, 사전 감정.
+- **읽는 법:** **민간** 보고서로 [세무 신고](/posts/appraisal-report-tax-filing-use/) 논의.
 - **감정평가:** 일반 **사무소** 의뢰.
 - **실무 포인트:** 심의위 **이전** 단계로 이해.
 
@@ -78,23 +78,23 @@ summary: "재산평가심의위원회와 민간 감정평가의 역할 차이를
 
 - **배경:** 신고액과 세무서 **견해** 차이.
 - **읽는 법:** **심의위** 절차는 사건·규정에 따름.
-- **감정평가:** 기존 [민간 감정](/appraisal-note/posts/appraisal-report-reading-basics/)과 **대조** 자료.
+- **감정평가:** 기존 [민간 감정](/posts/appraisal-report-reading-basics/)과 **대조** 자료.
 - **실무 포인트:** 세무사·대리인과 **절차** 확인.
 
 ### 상황 3: 민간 감정가와 심의 결과 상이
 
 - **배경:** 두 **금액**이 다름.
-- **읽는 법:** [시가 vs 감정가](/appraisal-note/posts/market-value-vs-appraisal-value/)—**기준일·전제** 대조.
+- **읽는 법:** [시가 vs 감정가](/posts/market-value-vs-appraisal-value/)—**기준일·전제** 대조.
 - **감정평가:** **재평가**·추가 조사는 사건별.
 - **실무 포인트:** 단정보다 **근거** 비교.
 
-![심의위—세 가지 패턴](/appraisal-note/images/property-committee-scenarios.png)
+![심의위—세 가지 패턴](/images/property-committee-scenarios.png)
 
 *도식: 신고 전 민간·신고 후 심의·금액 차이는 대응이 다릅니다 (2026년 7월 기준).*
 
 > **주의**
 >
-> 「심의위를 피하려면 낮게 신고」는 [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 충돌할 수 있습니다.
+> 「심의위를 피하려면 낮게 신고」는 [평가 순서](/posts/official-price-inheritance-tax-filing/)와 충돌할 수 있습니다.
 
 ---
 

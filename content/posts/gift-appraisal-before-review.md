@@ -12,7 +12,7 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 
 **증여 감정평가가 「꼭」 필요한지는, 증여 부동산의 시가를 어떻게 잡을지·증여일 전후 거래가 있는지에 따라 달라질 수 있습니다.** 상속과 마찬가지로 **시가 우선** 원칙이 있고, 증여 **전**에 감정을 검토하는 경우는 **신고 가액·분쟁 예방** 목적이 많습니다.
 
-[상속 평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/) · [상속개시일](/appraisal-note/posts/inheritance-start-date-appraisal/)과 **날짜·순서**가 다릅니다.
+[상속 평가 순서](/posts/official-price-inheritance-tax-filing/) · [상속개시일](/posts/inheritance-start-date-appraisal/)과 **날짜·순서**가 다릅니다.
 
 > **핵심 요약**
 >
@@ -31,13 +31,13 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 
 > 「증여하기 전에 감정받아 두면, 증여세를 덜 내나요?」
 
-질문 의도는 **낮은 숫자로 증여**하고 싶다는 쪽에 가깝습니다. 감정결과가 **기대보다 높게** 나오면 당황하는 패턴도 [상속 비용](/appraisal-note/posts/inheritance-appraisal-cost-how/) 글과 같습니다. 증여 전 감정은 **필수 절차**가 아니라, **시가·신고 방향**을 미리 맞추려는 **검토**에 가깝습니다.
+질문 의도는 **낮은 숫자로 증여**하고 싶다는 쪽에 가깝습니다. 감정결과가 **기대보다 높게** 나오면 당황하는 패턴도 [상속 비용](/posts/inheritance-appraisal-cost-how/) 글과 같습니다. 증여 전 감정은 **필수 절차**가 아니라, **시가·신고 방향**을 미리 맞추려는 **검토**에 가깝습니다.
 
 ---
 
 ## 왜 「증여 전」에 물어보나
 
-「증여 계약 전에 감정받아 두면 세금이 줄까요」—질문 뒤에는 **증여 가액을 낮게 잡고 싶다**는 기대가 있는 경우가 많습니다. 감정결과가 **기대보다 높게** 나와 당황하는 패턴도 있습니다. [비용·기대](/appraisal-note/posts/inheritance-appraisal-cost-how/) 글의 주의와 겹칩니다.
+「증여 계약 전에 감정받아 두면 세금이 줄까요」—질문 뒤에는 **증여 가액을 낮게 잡고 싶다**는 기대가 있는 경우가 많습니다. 감정결과가 **기대보다 높게** 나와 당황하는 패턴도 있습니다. [비용·기대](/posts/inheritance-appraisal-cost-how/) 글의 주의와 겹칩니다.
 
 ---
 
@@ -50,7 +50,7 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 | **전 검토** | 신고 전 시가·공시 논의 | **증여 전** 일정·가액 사전 검토 |
 | **특이** | 상속인 복수·등기 | **부담부 증여**·채무승인 |
 
-![상속 vs 증여—감정평가 검토 비교](/appraisal-note/images/gift-vs-inheritance-appraisal.png)
+![상속 vs 증여—감정평가 검토 비교](/images/gift-vs-inheritance-appraisal.png)
 
 *도식: 기준일과 검토 시점이 다릅니다 (2026년 7월 기준).*
 
@@ -61,14 +61,14 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 | 상황 | 이유 |
 |---|---|
 | **고가 부동산** | 시가·감정 근거 **사전** 확보 |
-| **거래 사례 애매** | [보충적 평가](/appraisal-note/posts/supplementary-valuation-method/) vs 감정 **방향** 협의 |
+| **거래 사례 애매** | [보충적 평가](/posts/supplementary-valuation-method/) vs 감정 **방향** 협의 |
 | **가족 간 분쟁 우려** | 가액 **합의 자료** |
 | **부담부 증여** | 채무·부담 **범위** 정리 |
-| **여러 필지·지분** | [비용·건수](/appraisal-note/posts/inheritance-appraisal-cost-how/) 사전 협의 |
+| **여러 필지·지분** | [비용·건수](/posts/inheritance-appraisal-cost-how/) 사전 협의 |
 
 반대로 **실거래가 뚜렷하고** 신고 방향이 정해진 경우, 증여 전 감정을 **건너뛰는** 선택도 있을 수 있습니다. 개별 판단입니다.
 
-![증여 전 감정평가 검토 흐름](/appraisal-note/images/gift-appraisal-review-flow.png)
+![증여 전 감정평가 검토 흐름](/images/gift-appraisal-review-flow.png)
 
 *도식: 증여일·시가 조회 후 필요 시 감정 검토 (2026년 7월 기준).*
 
@@ -78,10 +78,10 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 
 | 자료 | 목적 |
 |---|---|
-| [등기부등본](/appraisal-note/posts/registry-read-inheritance-appraisal/) | 소유·담보·전세 |
+| [등기부등본](/posts/registry-read-inheritance-appraisal/) | 소유·담보·전세 |
 | 건축물대장·토지대장 | 면적·용도 |
 | **증여 예정일**·계약 초안 | 평가기준일 |
-| (토지) [토지이용계획](/appraisal-note/posts/land-use-plan-appraisal-points/) | 규제 |
+| (토지) [토지이용계획](/posts/land-use-plan-appraisal-points/) | 규제 |
 | (임대) 임대차계약 | 권리 |
 
 ---
@@ -93,15 +93,15 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 ### 상황 1: 아파트 무상 증여—실거래 있음
 
 - **배경:** 증여 예정일 전후 **동일 단지** 실거래가 있다. 공시가격은 그보다 낮다.
-- **읽는 법:** [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)상 **시가·유사매매**를 먼저 봅니다. 증여 전 감정은 **근거 확보**용으로 검토될 수 있다.
+- **읽는 법:** [평가 순서](/posts/official-price-inheritance-tax-filing/)상 **시가·유사매매**를 먼저 봅니다. 증여 전 감정은 **근거 확보**용으로 검토될 수 있다.
 - **감정평가:** 평가기준일이 **증여일**과 맞아야 한다. 오늘 받은 감정을 **나중에** 그대로 쓰기 어려울 수 있다.
-- **실무 포인트:** **증여 예정일**을 메모하고, [상속개시일 글](/appraisal-note/posts/inheritance-start-date-appraisal/)처럼 **날짜부터** 맞춘다.
+- **실무 포인트:** **증여 예정일**을 메모하고, [상속개시일 글](/posts/inheritance-start-date-appraisal/)처럼 **날짜부터** 맞춘다.
 
 ### 상황 2: 부담부 증여—채무 인수
 
 - **배경:** 부동산과 함께 **대출·채무** 인수 조건. 순증여 가액이 쟁점이다.
 - **읽는 법:** 부동산 **시가**만이 아니라 **부담** 범위가 신고·감정과 연결된다.
-- **감정평가:** 목적·범위를 **세무사와 먼저** 정한 뒤 의뢰하는 편이 낫다. 등기 [을구](/appraisal-note/posts/registry-read-inheritance-appraisal/) 담보 확인이 선행된다.
+- **감정평가:** 목적·범위를 **세무사와 먼저** 정한 뒤 의뢰하는 편이 낫다. 등기 [을구](/posts/registry-read-inheritance-appraisal/) 담보 확인이 선행된다.
 - **실무 포인트:** 채무 승인·인수 **범위**를 문서로 정리해 둔다.
 
 ### 상황 3: 증여 등기 후 감정 문의
@@ -111,13 +111,13 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 - **감정평가:** 늦은 의뢰는 **일정·신고 기한**과 맞는지 세무사 확인이 필요하다.
 - **실무 포인트:** 등기 **접수일·계약일**을 서류와 함께 보낸다.
 
-![증여 감정평가—세 가지 패턴](/appraisal-note/images/gift-appraisal-scenarios.png)
+![증여 감정평가—세 가지 패턴](/images/gift-appraisal-scenarios.png)
 
 *도식: 무상·부담부·사후 의뢰는 검토 포인트가 다릅니다 (2026년 7월 기준).*
 
 > **주의**
 >
-> 증여 **전** 감정이 **증여세를 줄여 준다**고 보장되지 않습니다. [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 세무사 신고 방향을 **먼저** 맞추세요.
+> 증여 **전** 감정이 **증여세를 줄여 준다**고 보장되지 않습니다. [평가 순서](/posts/official-price-inheritance-tax-filing/)와 세무사 신고 방향을 **먼저** 맞추세요.
 
 ---
 
@@ -125,7 +125,7 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 
 ### Q. 증여세 신고 때도 공시가격을 쓸 수 있나요?
 
-시가를 세우기 어려울 때 [보충적 평가](/appraisal-note/posts/supplementary-valuation-method/)가 논의됩니다. **유사 실거래**가 있으면 상속과 같이 **시가 우선**을 먼저 봅니다.
+시가를 세우기 어려울 때 [보충적 평가](/posts/supplementary-valuation-method/)가 논의됩니다. **유사 실거래**가 있으면 상속과 같이 **시가 우선**을 먼저 봅니다.
 
 ### Q. 증여와 상속을 같은 감정평가서로 쓸 수 있나요?
 
@@ -137,6 +137,6 @@ summary: "증여 전 감정평가를 검토할 때 볼 증여일·시가·부담
 
 ---
 
-증여는 **「전에 꼭」**보다 **「기준일과 시가를 먼저」**가 맞는 질문에 가깝습니다. [등기·권리](/appraisal-note/posts/registry-read-inheritance-appraisal/) 확인 후 의뢰하면 일정이 줄어듭니다.
+증여는 **「전에 꼭」**보다 **「기준일과 시가를 먼저」**가 맞는 질문에 가깝습니다. [등기·권리](/posts/registry-read-inheritance-appraisal/) 확인 후 의뢰하면 일정이 줄어듭니다.
 
 **참고:** [국세청 증여세 안내](https://www.nts.go.kr) · [증여세법](https://www.law.go.kr/법령/증여세법)

@@ -108,7 +108,7 @@ Mermaid 아래에 **교체 예정 주석**과 캡션 초안을 붙인다.
 *도식: 평가 순서는 시가 우선입니다 (2026년 7월 기준).*
 ```
 
-Hugo `static/images/` → URL `/appraisal-note/images/파일명.png`
+Hugo `static/images/` → URL `/images/파일명.png`
 
 **ASCII**는 Mermaid가 안 맞을 때만 짧게 쓴다. 장문 ASCII는 가독성이 떨어진다.
 

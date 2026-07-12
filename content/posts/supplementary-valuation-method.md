@@ -12,7 +12,7 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 
 **보충적 평가방법**은 상속·증여 부동산에서 **시가**를 세우기 어렵고 **유사매매사례가액**으로도 잡기 힘들 때, 법령이 정한 **공시·고시가액(기준시가)** 으로 가액을 보는 제도입니다. 「공시가격으로 신고해도 되나」는 질문의 배경이 되는 개념입니다.
 
-[상속 신고 가액·평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)에서 흐름을 다뤘습니다. 여기서는 **보충적 평가**가 무엇인지, 어떤 숫자가 나오는지 짚습니다.
+[상속 신고 가액·평가 순서](/posts/official-price-inheritance-tax-filing/)에서 흐름을 다뤘습니다. 여기서는 **보충적 평가**가 무엇인지, 어떤 숫자가 나오는지 짚습니다.
 
 > **핵심 요약**
 >
@@ -33,13 +33,13 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 
 숫자를 **이미 조회해 온 상태**인 경우가 많습니다. 그다음 대화는 보통 <strong>「그 공시가격이 보충적 평가 단계 숫자인지, 아직 시가·유사매매를 안 본 것인지」</strong>로 넘어갑니다. 반대로 「보충적 평가가 뭐예요」만 물을 때는, 실거래 조회를 **아직 안 한** 경우도 적지 않습니다.
 
-이 글은 **보충적 평가**라는 말이 **평가 순서 어디쯤**에 있는지부터 짚습니다. [상속 신고 가액·평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)를 읽었다면, 여기서는 그중 **3번째 단계**만 분리해 봅니다.
+이 글은 **보충적 평가**라는 말이 **평가 순서 어디쯤**에 있는지부터 짚습니다. [상속 신고 가액·평가 순서](/posts/official-price-inheritance-tax-filing/)를 읽었다면, 여기서는 그중 **3번째 단계**만 분리해 봅니다.
 
 ---
 
 ## 왜 이 용어가 나오나
 
-접수 데스크에서 「보충적 평가가 뭔가요」는 보통 **실거래가가 없어서** 공시가격을 보려는 맥락에서 나옵니다. 반대로 실거래가 있는데 보충적 평가만 고집하면 [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 어긋날 수 있습니다.
+접수 데스크에서 「보충적 평가가 뭔가요」는 보통 **실거래가가 없어서** 공시가격을 보려는 맥락에서 나옵니다. 반대로 실거래가 있는데 보충적 평가만 고집하면 [평가 순서](/posts/official-price-inheritance-tax-filing/)와 어긋날 수 있습니다.
 
 ---
 
@@ -53,7 +53,7 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 | 2 | **유사매매사례가액** | 비슷한 부동산 거래가 비교 |
 | 3 | **보충적 평가** | 공시·고시 **기준시가** |
 
-![상속 부동산 평가 순서—보충적 평가 위치](/appraisal-note/images/supplementary-valuation-order-flow.png)
+![상속 부동산 평가 순서—보충적 평가 위치](/images/supplementary-valuation-order-flow.png)
 
 *도식: 보충적 평가는 시가·유사매매 다음 단계입니다 (2026년 7월 기준).*
 
@@ -68,9 +68,9 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 | 단독·다가구 | 개별주택가격 | 알리미 |
 | 일반건물·오피스텔 등 | 국세청 고시 기준시가 등 | 국세청 재산평가정보 |
 
-「공시가격」 한 단어로 말해도 **유형마다 표가 다릅니다.** [상속·공시가격 글](/appraisal-note/posts/official-price-inheritance-tax-filing/)의 유형 표와 함께 보면 연결됩니다.
+「공시가격」 한 단어로 말해도 **유형마다 표가 다릅니다.** [상속·공시가격 글](/posts/official-price-inheritance-tax-filing/)의 유형 표와 함께 보면 연결됩니다.
 
-![유형별 보충적 평가—기준시가 종류](/appraisal-note/images/supplementary-valuation-by-type.png)
+![유형별 보충적 평가—기준시가 종류](/images/supplementary-valuation-by-type.png)
 
 *도식: 유형에 따라 조회하는 기준시가가 다릅니다 (2026년 7월 기준).*
 
@@ -82,15 +82,15 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 
 ### 상황 1: 아파트—인근 동일 단지 매매가 잡힌 경우
 
-- **배경:** [상속개시일](/appraisal-note/posts/inheritance-start-date-appraisal/) 전후 같은 단지 비슷한 면적 매매가 실거래에 있다. 공동주택 공시가격은 그보다 낮다.
-- **읽는 법:** **시가·유사매매** 단계 논의가 먼저입니다. 보충적 평가(공시가격)만으로 신고 방향을 잡으면 [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 충돌할 수 있습니다.
+- **배경:** [상속개시일](/posts/inheritance-start-date-appraisal/) 전후 같은 단지 비슷한 면적 매매가 실거래에 있다. 공동주택 공시가격은 그보다 낮다.
+- **읽는 법:** **시가·유사매매** 단계 논의가 먼저입니다. 보충적 평가(공시가격)만으로 신고 방향을 잡으면 [평가 순서](/posts/official-price-inheritance-tax-filing/)와 충돌할 수 있습니다.
 - **감정평가:** 시가 입증·산정 **수단**으로 검토되는 경우가 있습니다. 「공시가가 낮으니 감정도 낮겠지」라고 기대했다가 **공시보다 높은** 평가액에 당황하는 패턴도 있습니다.
 - **실무 포인트:** 실거래 조회(국토부)와 공시가격(알리미)을 **같은 메모**에 적어 두면 세무사·사무소 상담이 빨라집니다.
 
 ### 상황 2: 토지—주변 거래가 거의 없음
 
 - **배경:** 농지·임야 등, 상속개시일 전후 **뚜렷한 유사 매매**가 없다. 개별공시지가는 조회된다.
-- **읽는 법:** **보충적 평가(개별공시지가)** 쪽 논의가 자연스럽습니다. 지목·[토지이용계획](/appraisal-note/posts/land-use-plan-appraisal-points/)이 표준 공시만으로 설명이 안 되면 감정 검토로 넘어가기도 합니다.
+- **읽는 법:** **보충적 평가(개별공시지가)** 쪽 논의가 자연스럽습니다. 지목·[토지이용계획](/posts/land-use-plan-appraisal-points/)이 표준 공시만으로 설명이 안 되면 감정 검토로 넘어가기도 합니다.
 - **감정평가:** 도로 접면·개발 제한·용도 등 **개별 요인** 반영이 필요할 때 의뢰가 들어옵니다.
 - **실무 포인트:** 토지는 「아파트처럼 실거래 한 건만 보면 끝」이 아닌 경우가 많습니다. 토지대장·이용계획을 **등기와 함께** 보내 주세요.
 
@@ -101,7 +101,7 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 - **감정평가:** 기준일이 상속개시일과 다르거나 목적이 다르면 **재의뢰** 논의가 나올 수 있습니다.
 - **실무 포인트:** 감정평가서 표지의 **평가기준일·목적**을 먼저 확인하세요.
 
-![보충적 평가—세 가지 읽는 패턴](/appraisal-note/images/supplementary-valuation-scenarios.png)
+![보충적 평가—세 가지 읽는 패턴](/images/supplementary-valuation-scenarios.png)
 
 *도식: 실거래 유무·감정 여부에 따라 논의 중심이 달라집니다 (2026년 7월 기준).*
 
@@ -116,7 +116,7 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 - 임대·수익 구조가 **단순**하거나 권리만 정리하면 된다
 - 토지·임야 등 **거래 사례 풍부하지 않은** 유형이다
 
-이것만으로 「무조건 공시가격 OK」가 되는 것은 아닙니다. 다른 상속재산·채무·[신고 경로](/appraisal-note/posts/official-price-inheritance-tax-filing/)와 묶여 달라질 수 있습니다.
+이것만으로 「무조건 공시가격 OK」가 되는 것은 아닙니다. 다른 상속재산·채무·[신고 경로](/posts/official-price-inheritance-tax-filing/)와 묶여 달라질 수 있습니다.
 
 ---
 
@@ -129,7 +129,7 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 
 > **주의**
 >
-> 공시·기준시가가 **낮다**고 해서 무조건 유리하거나, 감정평가가 **무조건** 낮게 나오는 것은 아닙니다. [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)를 먼저 보세요.
+> 공시·기준시가가 **낮다**고 해서 무조건 유리하거나, 감정평가가 **무조건** 낮게 나오는 것은 아닙니다. [평가 순서](/posts/official-price-inheritance-tax-filing/)를 먼저 보세요.
 
 ---
 
@@ -149,6 +149,6 @@ summary: "보충적 평가방법의 의미와 상속·증여에서 쓰이는 유
 
 ---
 
-보충적 평가방법은 「세금을 줄이는 비법」이 아니라 **시가를 못 잡을 때의 규칙**에 가깝습니다. [감정평가 기본](/appraisal-note/posts/what-is-real-estate-appraisal/)과 [상속 신고 가액](/appraisal-note/posts/official-price-inheritance-tax-filing/)을 함께 읽으면 전체 그림이 잡힙니다.
+보충적 평가방법은 「세금을 줄이는 비법」이 아니라 **시가를 못 잡을 때의 규칙**에 가깝습니다. [감정평가 기본](/posts/what-is-real-estate-appraisal/)과 [상속 신고 가액](/posts/official-price-inheritance-tax-filing/)을 함께 읽으면 전체 그림이 잡힙니다.
 
 **참고:** [국세청 상속·증여 재산 평가 안내](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7723&mi=2330) · [상속세법 시행령](https://www.law.go.kr/법령/상속세법시행령)

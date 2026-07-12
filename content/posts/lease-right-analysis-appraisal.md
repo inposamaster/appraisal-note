@@ -12,14 +12,14 @@ summary: "상속·증여 감정평가에서 임대차·전세권 권리분석이
 
 **상속·증여로 부동산을 평가할 때 임대차는 「세입자 문제」가 아니라, 소유권 가치와 맞물린 권리 구조**입니다. 등기에 전세권이 없어도 **점유·계약**이 있으면 조사 범위가 넓어질 수 있고, 있으면 **을구·계약**을 함께 봅니다.
 
-[등기부등본](/appraisal-note/posts/registry-read-inheritance-appraisal/) · [전세 보증금 감정](/appraisal-note/posts/jeonse-deposit-appraisal-when/) 글과 연결됩니다.
+[등기부등본](/posts/registry-read-inheritance-appraisal/) · [전세 보증금 감정](/posts/jeonse-deposit-appraisal-when/) 글과 연결됩니다.
 
 > **핵심 요약**
 >
 > - 감정평가는 **소유권 가치**와 **임대·전세 관계**를 분리·병행해서 볼 수 있음
 > - **등기 전세권**·**임대차계약**·**확정일자·점유**를 한 세트로 확인
 > - 상속인이 「집값만」 원해도 **을구·계약**이 있으면 범위 협의가 필요
-> - 권리분석이 들어가면 [비용·일정](/appraisal-note/posts/inheritance-appraisal-cost-how/)이 달라질 수 있음
+> - 권리분석이 들어가면 [비용·일정](/posts/inheritance-appraisal-cost-how/)이 달라질 수 있음
 
 *기준일: 2026년 7월.*
 
@@ -40,14 +40,14 @@ summary: "상속·증여 감정평가에서 임대차·전세권 권리분석이
 
 | 확인 자료 | 보는 내용 |
 |---|---|
-| [등기 을구](/appraisal-note/posts/registry-read-inheritance-appraisal/) | 전세권·임차권·근저당 |
+| [등기 을구](/posts/registry-read-inheritance-appraisal/) | 전세권·임차권·근저당 |
 | 임대차계약서 | 보증금·월세·기간·갱신 |
 | 확정일자·점유 | 대항력·우선변제 **논의 맥락** |
 | 건축물대장 | 호실·면적·용도 |
 
 법률 판단(대항력 인정 여부 등)은 **변호사·세무사** 영역이고, 감정에서는 **사실·권리 현황**을 조사해 보고서에 반영합니다.
 
-![임대차 권리분석—확인 자료 흐름](/appraisal-note/images/lease-right-analysis-flow.png)
+![임대차 권리분석—확인 자료 흐름](/images/lease-right-analysis-flow.png)
 
 *도식: 등기·계약·점유를 함께 봅니다 (2026년 7월 기준).*
 
@@ -58,10 +58,10 @@ summary: "상속·증여 감정평가에서 임대차·전세권 권리분석이
 | 구분 | 소유권·건물 가치 | 임대·전세 관계 |
 |---|---|---|
 | **초점** | 시장가치·시가 | 보증금·수익·전세권 |
-| **상속 신고** | [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)의 시가 | 잔존 임대가 **가액·권리**에 영향 |
+| **상속 신고** | [평가 순서](/posts/official-price-inheritance-tax-filing/)의 시가 | 잔존 임대가 **가액·권리**에 영향 |
 | **자주 하는 실수** | 등기만 보고 「임대 없음」 | 계약·점유 **누락** |
 
-![소유권 평가 vs 임대차 권리](/appraisal-note/images/lease-right-vs-ownership.png)
+![소유권 평가 vs 임대차 권리](/images/lease-right-vs-ownership.png)
 
 *도식: 평가 목적에 따라 보는 층이 다릅니다 (2026년 7월 기준).*
 
@@ -72,7 +72,7 @@ summary: "상속·증여 감정평가에서 임대차·전세권 권리분석이
 ### 상황 1: 을구 전세권 3억—상속 신고
 
 - **배경:** 상속 주택, 을구 **전세권** 설정. 상속인은 **건물 시가**만 신고하려 함.
-- **읽는 법:** 전세권은 **소유권 가치**와 별도 층이 아닐 수 있다. [전세 글](/appraisal-note/posts/jeonse-deposit-appraisal-when/)과 함께 본다.
+- **읽는 법:** 전세권은 **소유권 가치**와 별도 층이 아닐 수 있다. [전세 글](/posts/jeonse-deposit-appraisal-when/)과 함께 본다.
 - **감정평가:** 권리분석·수익 조사가 **범위에 포함**될 수 있다.
 - **실무 포인트:** 등기 PDF와 계약서 **보증금·만기**를 한 메모에 적는다.
 
@@ -85,12 +85,12 @@ summary: "상속·증여 감정평가에서 임대차·전세권 권리분석이
 
 ### 상황 3: 상가주택—1층 상가·2층 주택 임대
 
-- **배경:** [꼬마빌딩](/appraisal-note/posts/small-building-inheritance-tax-appraisal/) 유형에 가깝다. 층별 임대·보증금이 다름.
+- **배경:** [꼬마빌딩](/posts/small-building-inheritance-tax-appraisal/) 유형에 가깝다. 층별 임대·보증금이 다름.
 - **읽는 법:** **수익법·권리**가 함께 오는 유형. 아파트 단순 비교와 다르다.
 - **감정평가:** 임대차 **건수·층별** 목록이 없으면 일정이 밀린다.
 - **실무 포인트:** 층·호실별 **계약 요약 표**를 만들어 보낸다.
 
-![임대차 권리—세 가지 상속·증여 패턴](/appraisal-note/images/lease-right-scenarios.png)
+![임대차 권리—세 가지 상속·증여 패턴](/images/lease-right-scenarios.png)
 
 *도식: 전세권·월세·상가주택은 읽는 초점이 다릅니다 (2026년 7월 기준).*
 
@@ -120,10 +120,10 @@ summary: "상속·증여 감정평가에서 임대차·전세권 권리분석이
 
 ### Q. 경매 물건 임차도 같은가요?
 
-[경매 감정가](/appraisal-note/posts/auction-appraisal-price-guide/)·현황조사 맥락이 추가됩니다. 상속과 **목적**이 다릅니다.
+[경매 감정가](/posts/auction-appraisal-price-guide/)·현황조사 맥락이 추가됩니다. 상속과 **목적**이 다릅니다.
 
 ---
 
-상속·증여 감정은 **등기 을구 → 계약 → 점유** 순으로 임대를 확인하는 편이 왕복을 줄입니다. [등기 읽기](/appraisal-note/posts/registry-read-inheritance-appraisal/)부터 이어서 보세요.
+상속·증여 감정은 **등기 을구 → 계약 → 점유** 순으로 임대를 확인하는 편이 왕복을 줄입니다. [등기 읽기](/posts/registry-read-inheritance-appraisal/)부터 이어서 보세요.
 
 **참고:** [주택임대차보호법](https://www.law.go.kr/법령/주택임대차보호법) · [감정평가에 관한 법률](https://www.law.go.kr/법령/감정평가에관한법률)
