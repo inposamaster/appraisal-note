@@ -1,0 +1,24 @@
+{{- if .IsPage -}}
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (typeof mermaid === 'undefined') return;
+    var nodes = document.querySelectorAll('pre.mermaid');
+    if (!nodes.length) return;
+
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'neutral',
+      securityLevel: 'loose',
+      flowchart: { useMaxWidth: true, htmlLabels: true }
+    });
+
+    mermaid.run({ nodes: nodes }).catch(function (err) {
+      console.error('Mermaid render failed:', err);
+      nodes.forEach(function (node) {
+        node.classList.add('mermaid-error');
+      });
+    });
+  });
+</script>
+{{- end -}}

@@ -1,0 +1,63 @@
+{{- define "main" }}
+
+{{- if .Title }}
+<header class="page-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description | markdownify }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+{{- if .Content }}
+<div class="post-content md-content page-intro">
+    {{ .Content }}
+</div>
+{{- end }}
+
+<nav class="browse-nav" aria-label="탐색 바로가기">
+    <ul class="browse-nav-list">
+        <li><a href="{{ "posts/" | relURL }}">전체 글</a></li>
+        <li><a href="{{ "search/" | relURL }}">검색</a></li>
+        <li><a href="{{ "posts/inheritance-gift-appraisal-faq/" | relURL }}">FAQ 모음</a></li>
+    </ul>
+</nav>
+
+<h2 class="section-heading">주제별</h2>
+
+<ul class="category-index-grid">
+    {{- $type := .Type }}
+    {{- range site.Params.categoryNav }}
+        {{- $count := 0 }}
+        {{- with site.Taxonomies.categories.Get .name }}
+            {{- $count = .Count }}
+        {{- end }}
+        <li>
+            <a class="category-index-card" href="{{ printf "categories/%s/" .slug | absURL }}">
+                <span class="category-index-name">{{ .name }}</span>
+                {{- with .desc }}
+                <span class="category-index-desc">{{ . }}</span>
+                {{- end }}
+                <span class="category-index-count">{{ $count }}편</span>
+            </a>
+        </li>
+    {{- else }}
+        {{- range .Data.Terms.Alphabetical }}
+            {{- $name := .Name }}
+            {{- $count := .Count }}
+            {{- with site.GetPage (printf "/%s/%s" $type $name) }}
+            <li>
+                <a class="category-index-card" href="{{ .Permalink }}">
+                    <span class="category-index-name">{{ .LinkTitle }}</span>
+                    <span class="category-index-count">{{ $count }}편</span>
+                </a>
+            </li>
+            {{- end }}
+        {{- end }}
+    {{- end }}
+</ul>
+
+{{- end }}{{/* end main */}}

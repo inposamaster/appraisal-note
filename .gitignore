@@ -11,3 +11,9 @@
 # Editor
 *.swp
 *~
+
+# Secrets (API keys — see content-engine/_archive/.env.example)
+.env
+.env.*
+content-engine/.env
+content-engine/.env.*

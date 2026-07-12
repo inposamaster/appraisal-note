@@ -1,0 +1,7 @@
+{{- $class := "is-summary" -}}
+{{- if or (findRE `^\s*(\*\*)?주의(\*\*)?` .Text) (findRE `^<p>\s*<strong>주의</strong>\s*</p>` .Text) -}}
+{{- $class = "is-caution" -}}
+{{- end -}}
+<blockquote class="{{ $class }}">
+{{ .Text }}
+</blockquote>

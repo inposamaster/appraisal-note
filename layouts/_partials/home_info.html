@@ -1,0 +1,32 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info home-hero">
+    <header class="entry-header">
+        {{- $eyebrow := .Eyebrow | default site.Params.description }}
+        {{- with $eyebrow }}
+        <p class="home-eyebrow">{{ . }}</p>
+        {{- end }}
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content md-content home-intro">
+        {{ $opts := dict "display" "block" }}
+        {{ .Content | $.Page.RenderString $opts }}
+    </div>
+    {{- with site.Params.categoryNav }}
+    <nav class="home-category-nav" aria-label="주제 바로가기">
+        <p class="home-category-label">주제별로 보기</p>
+        <ul class="home-category-grid">
+            {{- range . }}
+            <li>
+                <a class="home-category-card" href="{{ printf "categories/%s/" .slug | absURL }}">
+                    <span class="home-category-name">{{ .name }}</span>
+                    {{- with .desc }}
+                    <span class="home-category-desc">{{ . }}</span>
+                    {{- end }}
+                </a>
+            </li>
+            {{- end }}
+        </ul>
+    </nav>
+    {{- end }}
+</article>
+{{- end }}

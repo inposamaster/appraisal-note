@@ -9,6 +9,9 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [pagination]
   pagerSize = 10
 
@@ -21,13 +24,15 @@ buildExpired = false
   title = "감정평가 노트"
 
   [languages.ko.params]
-    description = "감정평가, 부동산 가치, 상속·증여, 경매 감정평가를 쉽게 정리하는 실무형 노트"
+    description = "상속·경매·전세까지, 부동산 감정평가 실무 노트"
 
 [params]
   env = "production"
-  description = "감정평가, 부동산 가치, 상속·증여, 경매 감정평가를 쉽게 정리하는 실무형 노트"
-  keywords = ["감정평가", "부동산 가치", "상속", "증여", "경매 감정평가"]
+  description = "상속·경매·전세까지, 부동산 감정평가 실무 노트"
+  keywords = ["감정평가", "부동산 감정평가", "상속", "경매", "전세", "공매"]
   author = "감정평가 노트"
+  byline = "감정평가 사무소 현장 정리"
+  mainSections = ["posts"]
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -38,23 +43,61 @@ buildExpired = false
   ShowToc = true
   TocOpen = false
 
+  [params.label]
+    iconSVG = """<svg class="site-logo" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>"""
+
+  [params.assets]
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "safari-pinned-tab.svg"
+    theme_color = "#166534"
+    msapplication_TileColor = "#166534"
+
+  [[params.categoryNav]]
+    name = "감정평가 기초"
+    slug = "감정평가-기초"
+    desc = "개념, 평가 방법, 용어"
+
+  [[params.categoryNav]]
+    name = "서류·권리"
+    slug = "서류권리"
+    desc = "등기, 대장, 권리분석"
+
+  [[params.categoryNav]]
+    name = "상속·절세"
+    slug = "상속절세"
+    desc = "신고 가액, 상속·증여·절세"
+
+  [[params.categoryNav]]
+    name = "경매·전세"
+    slug = "경매전세"
+    desc = "경매·공매, 전세·유형별"
+
+  [params.footer]
+    disclaimer = "일반 정보 안내 목적입니다. 세무·법률·감정평가 판단은 전문가와 확인하세요."
+
+  [params.homeInfoParams]
+    Eyebrow = "내 집 마련을 위하여"
+    Title = "부동산 감정평가, 공부한 것과 책상에 남긴 것을 기록합니다"
+    Content = """
+감정평가 사무소에서 배운 것, 스스로 찾아본 것—상속·경매·전세로 이어지는 질문을 하나씩 글로 쌓고 있습니다. 나중에 다시 읽기 쉽게, 현장에서 듣는 말투에 가깝게 적어 둡니다.
+
+면허를 딴 감정평가사의 글이 아닙니다. 일반 정보 안내이며, [소개](/appraisal-note/about/)에서 다루는 범위와 한계를 확인할 수 있습니다.
+"""
+
+[[menu.main]]
+  identifier = "categories"
+  name = "탐색"
+  url = "/categories/"
+  weight = 5
+
 [[menu.main]]
   identifier = "posts"
   name = "글"
   url = "/posts/"
   weight = 10
-
-[[menu.main]]
-  identifier = "tags"
-  name = "태그"
-  url = "/tags/"
-  weight = 20
-
-[[menu.main]]
-  identifier = "archives"
-  name = "아카이브"
-  url = "/archives/"
-  weight = 30
 
 [[menu.main]]
   identifier = "search"

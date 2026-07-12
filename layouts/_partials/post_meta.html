@@ -1,0 +1,36 @@
+{{- $scratch := newScratch }}
+
+{{- with index .Params.categories 0 }}
+    {{- $scratch.Add "meta" (slice (printf "<span class=\"meta-category\"><a href=\"%s\">%s</a></span>" (printf "categories/%s/" (. | urlize) | absURL) .)) }}
+{{- end }}
+
+{{- if not .Date.IsZero -}}
+    {{- $scratch.Add "meta" (slice (printf "<time datetime=\"%s\" title=\"%s\">%s</time>" (.Date.Format "2006-01-02") (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- if (.Param "ShowReadingTime") -}}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d분" .ReadingTime)))) }}
+{{- end }}
+
+{{- if (.Param "ShowWordCount") -}}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
+{{- end }}
+
+{{- if not (.Param "hideAuthor") -}}
+    {{- $byline := .Param "byline" | default site.Params.byline -}}
+    {{- if $byline -}}
+        {{- $scratch.Add "meta" (slice (printf "<span class=\"meta-byline\" title=\"작성 출처\">%s</span>" $byline)) }}
+    {{- else -}}
+        {{- with (partial "author.html" .) }}
+            {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+        {{- end }}
+    {{- end }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+<div class="post-meta-items">
+{{- range . }}
+    <span class="post-meta-item">{{ . | safeHTML }}</span>
+{{- end }}
+</div>
+{{- end }}

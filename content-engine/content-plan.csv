@@ -1,0 +1,31 @@
+month,priority,suggested_title,seed_keyword,keyword,search_intent,content_type,category,validation_status,status,target_slug,competition_note,memo
+1,1,"상속 감정평가, 공시가격으로 신고해도 괜찮을까?",상속 감정평가,공시가격 상속세 신고,비교형,비교정리,상속·절세,검증완료,published,official-price-inheritance-tax-filing,,파이프라인 통과 1편. PNG 3장
+1,2,감정평가란 무엇인가: 부동산 가치를 정하는 기본 원리,감정평가,감정평가란,정보형,개념설명,감정평가 기초,검증완료,published,what-is-real-estate-appraisal,,소급 검수 완료. PNG 3장
+1,3,등기부등본 읽기—감정평가 의뢰 전 권리 확인,등기부등본,등기부등본 감정평가,실행형,체크리스트,서류·권리,검증완료,published,registry-read-inheritance-appraisal,,PNG 3장
+1,4,경매 감정가는 무엇이고 어디서 보나,경매 감정평가,경매 감정가,정보형,개념설명,경매·전세,검증완료,published,auction-appraisal-price-guide,,PNG 3장
+1,5,상속 감정평가 비용은 어떻게 정해질까,상속 감정평가,상속 감정평가 비용,비교형,비교정리,상속·절세,검증완료,published,inheritance-appraisal-cost-how,,PNG 3장
+1,6,보충적 평가방법이란 무엇인가,보충적 평가방법,보충적 평가방법,정보형,개념설명,감정평가 기초,검증완료,published,supplementary-valuation-method,,PNG 3장
+1,7,토지이용계획확인서—감정평가에서 보는 포인트,토지이용계획,토지이용계획 감정평가,정보형,개념설명,서류·권리,검증완료,published,land-use-plan-appraisal-points,,PNG 3장
+1,8,전세 보증금 감정평가가 필요한 경우,전세 감정평가,전세 보증금 감정평가,정보형,개념설명,경매·전세,검증완료,published,jeonse-deposit-appraisal-when,,PNG 3장
+1,9,상속개시일 기준 감정평가가 중요한 이유,상속 감정평가,상속개시일 감정평가 기준,정보형,개념설명,상속·절세,검증완료,published,inheritance-start-date-appraisal,,PNG 3장
+1,10,"증여 감정평가, 증여 전에 꼭 검토해야 할까?",증여 감정평가,증여 전 감정평가 검토,정보형,개념설명,상속·절세,검증완료,published,gift-appraisal-before-review,,PNG 3장
+2,11,임대차 권리분석—상속·증여 감정에서 보는 것,임대차 권리,임대차 감정평가 권리분석,정보형,사례해설,서류·권리,검증완료,published,lease-right-analysis-appraisal,,B급 PNG 3장
+2,12,공매와 법원경매—감정평가 관점 차이,공매 감정평가,공매 경매 감정평가 차이,비교형,비교정리,경매·전세,검증완료,published,public-auction-vs-court-auction,,B급 PNG 3장
+2,13,유사매매사례가액이 있으면 감정평가는 필요 없을까,유사매매사례가액,유사매매사례가액 감정평가 필요,비교형,비교정리,상속·절세,검증완료,published,similar-transaction-appraisal-needed,,B급 priority1 후속
+2,14,건축물대장—감정평가 조사에서 확인하는 항목,건축물대장,건축물대장 감정평가,실행형,체크리스트,서류·권리,검증완료,published,building-register-appraisal-checklist,,B급 PNG 3장
+2,15,꼬마빌딩 상속세 신고 전 감정평가가 필요한 경우,꼬마빌딩,꼬마빌딩 상속세 감정평가,정보형,개념설명,경매·전세,검증완료,published,small-building-inheritance-tax-appraisal,,B급 PNG 3장
+2,16,감정평가서 읽는 법—시가표준액·평가액 항목,감정평가서,감정평가서 읽는 법,정보형,개념설명,감정평가 기초,검증완료,published,appraisal-report-reading-basics,,B급 PNG 3장
+2,17,국세청 감정평가 대상이 되는 경우,국세청 감정평가,국세청 감정평가 대상,정보형,개념설명,상속·절세,검증완료,published,nts-appraisal-target-cases,,B급 PNG 3장
+2,18,아파트 상속 감정평가—실거래와 공시가격 체크리스트,아파트 상속,아파트 상속 감정평가,실행형,체크리스트,경매·전세,검증완료,published,apartment-inheritance-appraisal-checklist,,B급 PNG 3장 priority1 아파트 확장
+2,19,선순위 담보·가압류—등기에서 감정 전 확인,선순위 담보,선순위 담보 감정평가,정보형,개념설명,서류·권리,검증완료,published,lien-priority-registry-check,,B급 PNG 3장
+2,20,원가·수익·비교법—감정평가 3가지 접근 개요,감정평가 방법,감정평가 원가 수익 비교법,정보형,개념설명,감정평가 기초,검증완료,published,three-valuation-approaches-overview,,B급 PNG 3장
+3,21,토지대장 확인—토지 감정평가 의뢰 전,토지대장,토지대장 감정평가,실행형,체크리스트,서류·권리,검증완료,published,land-register-appraisal-checklist,,B급 PNG 3장
+3,22,낙찰가와 감정가—경매 입찰 전 알아둘 것,경매 낙찰가,경매 낙찰가 감정가,비교형,비교정리,경매·전세,검증완료,published,auction-bid-price-vs-appraisal,,B급 PNG 3장
+3,23,감정평가서가 세무 신고에서 활용되는 방식,상속 증여,감정평가서 세무 신고 활용,정보형,절차안내,상속·절세,검증완료,published,appraisal-report-tax-filing-use,,B급 PNG 3장
+3,24,시가와 감정가—같은 집 다른 숫자인 이유,시가 감정가,시가 감정가 차이,비교형,비교정리,감정평가 기초,검증완료,published,market-value-vs-appraisal-value,,B급 PNG 3장
+3,25,상가주택 상속 감정평가 체크포인트,상가주택,상가주택 상속 감정평가,실행형,체크리스트,경매·전세,검증완료,published,commercial-residential-inheritance-appraisal,,B급 PNG 3장
+3,26,상속·증여 감정평가 의뢰 전 준비서류,상속 증여,상속 증여 감정평가 준비서류,실행형,체크리스트,서류·권리,검증완료,published,inheritance-gift-appraisal-documents,,B급 PNG 3장 서류 허브
+3,27,재산평가심의위원회와 감정평가의 관계,재산평가심의위원회,재산평가심의위원회 감정평가,정보형,개념설명,감정평가 기초,검증완료,published,property-valuation-committee-relationship,,B급 PNG 3장
+3,28,토지 증여·상속 감정평가 포인트,토지 증여,토지 증여 감정평가,정보형,개념설명,경매·전세,검증완료,published,land-inheritance-gift-appraisal-points,,B급 PNG 3장
+3,29,소급감정은 언제 가능할까,소급감정,소급감정 가능 시기,실행형,절차안내,감정평가 기초,검증완료,published,retroactive-appraisal-when,,B급 PNG 3장
+3,30,상속·증여 감정평가 FAQ—의뢰 전 자주 묻는 질문,상속 증여,상속 증여 감정평가 FAQ,정보형,체크리스트,상속·절세,검증완료,published,inheritance-gift-appraisal-faq,,B급 PNG 3장 허브·30편 완료

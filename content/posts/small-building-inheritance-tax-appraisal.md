@@ -1,0 +1,127 @@
+---
+title: "꼬마빌딩 상속세 신고 전 감정평가가 필요한 경우"
+date: 2026-06-05T09:14:00+09:00
+draft: false
+description: "꼬마빌딩 상속 시 감정평가가 검토되는 경우—상가·임대·수익이 섞인 물건의 신고 가액·평가 순서를 정리합니다."
+categories: ["경매·전세"]
+tags: ["꼬마빌딩", "상속세", "상속 감정평가", "상가", "임대수익"]
+summary: "꼬마빌딩 상속에서 감정평가가 검토되는 상황과 의뢰 전 확인할 점을 정리합니다."
+---
+
+# 꼬마빌딩 상속세 신고 전 감정평가가 필요한 경우
+
+**꼬마빌딩**(소형 상업·주택 복합 건물) 상속은 아파트와 달리 **임대·상가 수익·층별 용도**가 한꺼번에 올라옵니다. 공시·실거래만으로 신고 방향이 정리되지 않아 **감정평가**를 검토하는 경우가 많습니다.
+
+[상속 평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/) · [임대차 권리](/appraisal-note/posts/lease-right-analysis-appraisal/)와 연결됩니다.
+
+> **핵심 요약**
+>
+> - **주택 단순 비교**로 끝나기 어려운 유형—**수익·권리** 조사가 붙기 쉬움
+> - 1층 **상가·근린** + 2층 **주택** + **임차인**이 흔한 패턴
+> - [건축물대장](/appraisal-note/posts/building-register-appraisal-checklist/)·[등기](/appraisal-note/posts/registry-read-inheritance-appraisal/)·**임대차** 세트 준비
+> - 「공시가만으로 신고」는 [순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)상 성립하기 어려운 경우가 많음
+
+*기준일: 2026년 7월.*
+
+---
+
+## 현장에서 먼저 듣는 질문
+
+> 「꼬마빌딩인데 아파트처럼 실거래만 보면 되죠?」  
+> 「1층은 월세, 2층은 전세인데—집값만 감정받을 수 있나요?」
+
+첫 질문은 **유형 착각**, 둘째는 **임대·층별 권리**를 나중에 말하는 패턴입니다. [1편 상황 3](/appraisal-note/posts/official-price-inheritance-tax-filing/)과 같은 유형입니다.
+
+---
+
+## 아파트 상속과 무엇이 다른가
+
+| 구분 | 아파트 | 꼬마빌딩 |
+|---|---|---|
+| **비교 사례** | 단지 **실거래** 풍부 | **상가·수익** 혼재 |
+| **공시 체계** | 공동주택 **공시가격** | 건물·토지 **합산** 등 |
+| **임대** | 전세 위주 | **층별·상가** 다양 |
+| **감정** | 비교법 **중심** | **수익법·권리** 비중 ↑ |
+
+![아파트 vs 꼬마빌딩—상속 감정 관점](/appraisal-note/images/small-building-vs-apartment.png)
+
+*도식: 비교·공시·조사 범위가 다릅니다 (2026년 7월 기준).*
+
+---
+
+## 신고 전에 맞춰 볼 것
+
+| 순서 | 확인 |
+|---|---|
+| 1 | [상속개시일](/appraisal-note/posts/inheritance-start-date-appraisal/) |
+| 2 | [평가 순서](/appraisal-note/posts/official-price-inheritance-tax-filing/)—시가·유사매매·보충적 |
+| 3 | [등기](/appraisal-note/posts/registry-read-inheritance-appraisal/) 을구·담보·전세 |
+| 4 | [건축물대장](/appraisal-note/posts/building-register-appraisal-checklist/) 층별 용도·면적 |
+| 5 | **임대차** 계약·보증금·점유 |
+
+![꼬마빌딩 상속—신고 전 확인 흐름](/appraisal-note/images/small-building-prep-flow.png)
+
+*도식: 날짜·순서·서류·임대를 맞춘 뒤 감정 검토 (2026년 7월 기준).*
+
+---
+
+## 세 가지 상황
+
+### 상황 1: 1층 상가 월세 + 2층 주택 자가
+
+- **배경:** 상가 **임차인**·주택 공실. 인근 **상가 거래** 사례는 적다.
+- **읽는 법:** [보충적 평가](/appraisal-note/posts/supplementary-valuation-method/)만으로 끝나기 어렵다. **수익·권리** 조사가 붙는다.
+- **감정평가:** 층별 **임대·용도** 없이 「건물 전체」만 의뢰하면 보완 요청.
+- **실무 포인트:** 층별 **계약 요약**·[대장](/appraisal-note/posts/building-register-appraisal-checklist/) 용도를 함께 보낸다.
+
+### 상황 2: 을구 근저당 + 상가 보증금
+
+- **배경:** 대출 잔액·**상가 보증금** 큼. 상속인은 **순자산** 관심.
+- **읽는 법:** 신고 **시가**와 **부담** 인식이 분리된다. [등기](/appraisal-note/posts/registry-read-inheritance-appraisal/) 을구 필수.
+- **감정평가:** 목적이 **상속세 신고**인지 **상속인 간 분쟁**인지에 따라 범위 차이.
+- **실무 포인트:** 담보 **순위**·보증금 **목록**을 등기와 함께 정리.
+
+### 상황 3: 인근 꼬마빌딩 매매 1건—실거래 있음
+
+- **배경:** [유사매매](/appraisal-note/posts/similar-transaction-appraisal-needed/) 논의 가능. 다만 **층·임대** 조건이 다름.
+- **읽는 법:** 거래 1건이 곧 **시가 확정**은 아님. 감정으로 **조정** 논의될 수 있다.
+- **감정평가:** 세무사와 **시가 근거** 합의 후 의뢰하는 편이 낫다.
+- **실무 포인트:** 실거래 **조건**(임대 승계 등)을 메모한다.
+
+![꼬마빌딩 상속—세 가지 패턴](/appraisal-note/images/small-building-scenarios.png)
+
+*도식: 임대·담보·실거래 유무에 따라 갈림이 달라집니다 (2026년 7월 기준).*
+
+> **주의**
+>
+> 「아파트 상속 글」 조언을 **그대로** 적용하면 유형부터 **엇납니다**. [비용](/appraisal-note/posts/inheritance-appraisal-cost-how/)도 단순 견적이 어렵습니다.
+
+---
+
+## 감정 검토가 늦어질 때
+
+- **임대차**를 상담 후반에만 공개  
+- 층별 **용도**를 「전부 주택」으로만 설명  
+- [토지이용계획](/appraisal-note/posts/land-use-plan-appraisal-points/)·토지대장 **누락**  
+
+---
+
+## FAQ
+
+### Q. 꼬마빌딩도 공시가격이 있나요?
+
+유형에 따라 **국세청 고시 기준시가** 등 [보충적 평가](/appraisal-note/posts/supplementary-valuation-method/) 숫자가 조회될 수 있습니다. **시가 우선** 원칙은 아파트와 같습니다.
+
+### Q. 상가만 따로 감정받을 수 있나요?
+
+**의뢰 목적·범위** 협의가 필요합니다. 건물 **일체** 평가가 일반적입니다.
+
+### Q. 경매 꼬마빌딩과 같은가요?
+
+[경매·공매](/appraisal-note/posts/auction-appraisal-price-guide/)는 **매각** 맥락이 추가됩니다.
+
+---
+
+꼬마빌딩 상속은 **아파트 글을 복사하지 말고**, 임대·층·권리부터 정리하세요. [상속 공시가격](/appraisal-note/posts/official-price-inheritance-tax-filing/) 글 **상황 3**과 함께 읽으면 흐름이 잡힙니다.
+
+**참고:** [국세청 상속·증여 재산 평가 안내](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7723&mi=2330)

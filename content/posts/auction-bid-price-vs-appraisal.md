@@ -1,0 +1,131 @@
+---
+title: "낙찰가와 감정가—경매 입찰 전 알아둘 것"
+date: 2026-06-22T11:44:00+09:00
+draft: false
+description: "법원 경매에서 감정가·최저매각가격·낙찰가의 관계—입찰 전 읽는 법과 감정평가 맥락을 정리합니다."
+categories: ["경매·전세"]
+tags: ["경매", "낙찰가", "감정가", "최저매각가격", "입찰"]
+summary: "경매 감정가·최저매각가격·낙찰가의 차이와 입찰 전 확인 포인트를 정리합니다."
+---
+
+# 낙찰가와 감정가—경매 입찰 전 알아둘 것
+
+**경매 물건**을 보면 **감정가**, **최저매각가격**, **낙찰가**가 함께 나옵니다. 세 숫자는 같은 의미가 아니고, [경매 감정](/appraisal-note/posts/auction-appraisal-price-guide/)은 **낙찰 예상**이 아니라 **기준 가격**을 잡는 절차에 가깝습니다.
+
+[공매 vs 법원경매](/appraisal-note/posts/public-auction-vs-court-auction/) · [선순위](/appraisal-note/posts/lien-priority-registry-check/)와 연결됩니다.
+
+> **핵심 요약**
+>
+> - **감정가** ≠ **낙찰가**—시장·입찰 경쟁에 따라 달라짐
+> - **최저매각가격**은 감정가를 **기준**으로 정해지는 경우가 많음
+> - [선순위 채권](/appraisal-note/posts/lien-priority-registry-check/)·[임차](/appraisal-note/posts/lease-right-analysis-appraisal/)가 **실질** 수익에 영향
+> - 입찰 전 **등기·점유·배당**을 감정가와 **분리**해서 봄
+
+*기준일: 2026년 7월.*
+
+---
+
+## 현장에서 먼저 듣는 질문
+
+> 「감정가보다 낮게 낙찰됐는데 손해인가요?」  
+> 「감정가가 시세보다 높으면 입찰 안 해도 되나요?」
+
+첫 질문은 **낙찰가=시세** 착각, 둘째는 **감정가=시장가** 착각입니다.
+
+---
+
+## 세 가격의 역할
+
+| 용어 | 일반적 의미 | 입찰에서 |
+|---|---|---|
+| **감정가** | 경매 **평가** 결과 | 기준·참고 |
+| **최저매각가격** | 1차 입찰 **하한** | 입찰 **최소** |
+| **낙찰가** | **낙찰** 확정 금액 | 실제 **취득 대가** |
+
+법원 경매 **절차·비율**은 사건·차수마다 다를 수 있습니다.
+
+![경매—감정가·최저가·낙찰가](/appraisal-note/images/auction-bid-three-prices.png)
+
+*도식: 세 가격은 역할이 다릅니다 (2026년 7월 기준).*
+
+---
+
+## 감정가 vs 낙찰가—왜 다른가
+
+| 이유 | 설명 |
+|---|---|
+| **입찰 수** | 경쟁 없으면 **최저가** 낙찰 |
+| **권리·점유** | [전세](/appraisal-note/posts/jeonse-deposit-appraisal-when/)·명도 리스크 |
+| **물건 상태** | 수리·특수 용도 |
+| **시점** | 감정 **기준일** vs 낙찰 **시점** |
+
+[시가와 감정가](/appraisal-note/posts/market-value-vs-appraisal-value/) 글처럼, **같은 집도 맥락에 따라 숫자가 갈립니다**.
+
+![감정가와 낙찰가—차이 요인](/appraisal-note/images/auction-bid-vs-appraisal-factors.png)
+
+*도식: 권리·시장·시점이 낙찰가에 영향을 줍니다 (2026년 7월 기준).*
+
+---
+
+## 세 가지 상황
+
+### 상황 1: 감정가 대비 최저가 70%—1차 유찰
+
+- **배경:** [법원 경매](/appraisal-note/posts/public-auction-vs-court-auction/), 1차 **유찰** 후 차수 상승.
+- **읽는 법:** 최저가 **비율**·차수별 변동 확인.
+- **감정평가:** 감정가 **근거** 페이지—비교 사례·조건.
+- **실무 포인트:** **차수**별 최저가를 표로 정리.
+
+### 상황 2: 낙찰가 < 감정가—전세 세입자
+
+- **배경:** [전세보증금](/appraisal-note/posts/jeonse-deposit-appraisal-when/)·[임차권](/appraisal-note/posts/lease-right-analysis-appraisal/) 배당.
+- **읽는 법:** 낙찰가에서 **배당 후** 잔여를 봄.
+- **감정평가:** 감정 시 **점유** 전제 확인.
+- **실무 포인트:** [선순위](/appraisal-note/posts/lien-priority-registry-check/) 표 작성.
+
+### 상황 3: 감정가가 인근 시세보다 높음
+
+- **배경:** 입찰 포기 vs **최저가**만 노림.
+- **읽는 법:** 감정가는 **절차상 기준**, 시세는 **별도** 조사.
+- **감정평가:** [경매 감정](/appraisal-note/posts/auction-appraisal-price-guide/) 목적 이해.
+- **실무 포인트:** 실거래·공시와 **3열** 비교.
+
+![경매 입찰—세 가지 패턴](/appraisal-note/images/auction-bid-scenarios.png)
+
+*도식: 유찰·임차·시세 괴리는 대응이 다릅니다 (2026년 7월 기준).*
+
+> **주의**
+>
+> 감정가·낙찰가만 보고 **명도·배당**을 생략하면 실질 손익이 어긋날 수 있습니다.
+
+---
+
+## 입찰 전 체크
+
+- [ ] 등기 **최신**·[선순위](/appraisal-note/posts/lien-priority-registry-check/)
+- [ ] 임차·점유 조사
+- [ ] 감정 **기준일**·조사 내용
+- [ ] 차수별 **최저매각가격**
+- [ ] [건축물대장](/appraisal-note/posts/building-register-appraisal-checklist/)·현황
+
+---
+
+## FAQ
+
+### Q. 감정가로 입찰해야 하나요?
+
+**의무**가 아닙니다. 최저가 이상에서 **자유** 입찰입니다.
+
+### Q. 공매도 같나요?
+
+[공매 vs 법원경매](/appraisal-note/posts/public-auction-vs-court-auction/)—절차·가격 규칙이 다를 수 있습니다.
+
+### Q. 감정가에 이의하면?
+
+법원 경매 **평가** 이의 절차는 사건·규칙에 따릅니다. 전문가 상담이 필요합니다.
+
+---
+
+경매는 **감정가(기준) → 최저가(입찰 하한) → 낙찰가(결과)** 순으로 읽으면 됩니다.
+
+**참고:** [대법원 경매정보](https://www.courtauction.go.kr/)
