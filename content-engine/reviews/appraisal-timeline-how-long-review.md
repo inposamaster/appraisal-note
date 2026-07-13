@@ -28,7 +28,7 @@ content-plan: priority 31
 
 | 절 | 항목 | 결과 |
 |---|---|---|
-| A | draft:true, 골격, AI 흔적 | 통과 |
+| A | draft:false, 골격, AI 흔적 | 통과 |
 | B | YMYL 고지, 기준일, 검색 의도 | 통과 |
 | B | memo 구분(비용 글과 80% 겹침 없음) | 통과 |
 | D | PNG 3장, 표 2, 요약·주의 박스 | 통과 |

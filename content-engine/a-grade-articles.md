@@ -10,3 +10,5 @@
 | 30 | inheritance-gift-appraisal-faq | 30편 허브·FAQ |
 
 2~30편 중 나머지는 B급 골격 유지.
+
+**Phase 2 (priority 31~42):** 동일 품질 게이트(PNG 3·Claim Log) 적용. A급 표는 필요 시 스프린트 후 갱신.

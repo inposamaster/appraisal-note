@@ -12,6 +12,7 @@
 
 발행 계획·글 작성·검수는 `content-engine/` 폴더에서 관리합니다.
 
+- **워크플로·용어 SSOT:** `content-engine/PIPELINE.md` · `GLOSSARY.md`
 - **발행 목록:** `content-engine/content-plan.csv`
 - **시작 가이드:** `content-engine/README.md`
 

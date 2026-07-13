@@ -10,36 +10,36 @@ summary: "상속·증여 감정평가 의뢰 전 자주 묻는 질문과 관련 
 
 # 상속·증여 감정평가 FAQ—의뢰 전 자주 묻는 질문
 
-**감정평가를 받아야 하는지**, **얼마나 드는지**, **신고에 어떻게 쓰이는지**—의뢰 전 질문은 비슷하게 반복됩니다. 30편을 쓰면서 접수 데스크·상담에서 **가장 많이 들은 문장**을 모았고, 각 답은 **짧은 결론 + 상세 글 링크**로 이어집니다.
+**감정평가를 받아야 하는지**, **얼마나 드는지**, **신고에 어떻게 쓰이는지**—의뢰 전 질문은 비슷하게 반복됩니다. 자주 나오는 물음을 **짧은 결론 + 상세 글 링크**로 모았습니다.
 
-이 글은 **허브**입니다. FAQ만 보고 신고 방향을 정하기보다, [평가 순서](/posts/official-price-inheritance-tax-filing/)와 **세무사** 상담을 함께 하세요.
+신고 가액·의뢰 여부는 FAQ만으로 정하지 말고, [평가 순서](/posts/official-price-inheritance-tax-filing/)와 **세무사** 상담을 함께 보세요.
 
 > **핵심 요약**
 >
 > - 감정은 **항상 필수**가 아님—[평가 순서](/posts/official-price-inheritance-tax-filing/) 먼저
 > - **기준일·목적**이 맞는 의뢰가 중요—담보용 보고서 ≠ 상속용
 > - 비용·일정은 [유형·서류](/posts/inheritance-appraisal-cost-how/)에 따라 다름
-> - 이 블로그는 **일반 안내**—세무·법률 판단은 전문가와
+> - 안내는 **일반 정보**—세무·법률 판단은 전문가와
 
 *기준일: 2026년 7월.*
 
 ---
 
-## 현장에서 먼저 듣는 질문
+## 의뢰 전에 가장 많이 묻는 말
 
-> 「FAQ만 보고 신고해도 되나요?」  
-> 「30편이나 있는데 어디서부터 읽나요?」  
-> 「감정 안 받고 공시로 하면 안 되나요?」
+「FAQ만 보고 신고해도 되나요?」  
+「글이 많은데 어디서부터 읽나요?」  
+「감정 안 받고 공시로 하면 안 되나요?」
 
-첫 질문에 대한 답은 **아니오**에 가깝습니다. FAQ는 **길잡이**이고, 신고 가액은 **사실관계**마다 달라집니다. 둘째 질문은 아래 **읽는 순서**를 보세요. 셋째는 [평가 순서](/posts/official-price-inheritance-tax-filing/)—「안 된다」가 아니라 **조건**을 봅니다.
+첫 질문에 대한 답은 **아니오**에 가깝습니다. FAQ는 **길잡이**이고, 신고 가액은 **사실관계**마다 달라집니다. 둘째는 아래 **읽는 순서**를 보세요. 셋째는 [평가 순서](/posts/official-price-inheritance-tax-filing/)—「안 된다」가 아니라 **조건**을 봅니다.
 
 ---
 
-## 읽는 순서—처음 오셨다면
+## 읽는 순서—처음이라면
 
 | 단계 | 글 | 왜 |
 |---|---|---|
-| 1 | [감정평가란](/posts/what-is-real-estate-appraisal/) | 용어·목적 **입구** |
+| 1 | [감정평가란](/posts/what-is-real-estate-appraisal/) | 용어·목적 |
 | 2 | [상속 평가 순서](/posts/official-price-inheritance-tax-filing/) | **핵심**—시가·유사매매·공시 |
 | 3 | 유형별 1편 | [아파트](/posts/apartment-inheritance-appraisal-checklist/)·[토지](/posts/land-inheritance-gift-appraisal-points/) 등 |
 | 4 | [준비서류](/posts/inheritance-gift-appraisal-documents/) | 의뢰 전 **모으기** |
@@ -135,24 +135,15 @@ summary: "상속·증여 감정평가 의뢰 전 자주 묻는 질문과 관련 
 
 ### 상황 1: 「감정이 꼭 필요한가요?」만 알고 싶을 때
 
-- **배경:** 비용 부담. 공시가격이 실거래보다 낮아 보임.
-- **읽는 법:** [평가 순서](/posts/official-price-inheritance-tax-filing/) 1→2→3. 실거래 **유무**를 먼저 조회.
-- **감정평가:** **필수 아님**인 사건이 많음—**검토** 옵션. [유사매매](/posts/similar-transaction-appraisal-needed/)로 갈림.
-- **실무 포인트:** 세무사 **1차** 상담에서 「감정 없이」 방향이 가능한지 **먼저** 묻는다.
+비용이 부담되고 공시가격이 실거래보다 낮아 보일 때, 먼저 [평가 순서](/posts/official-price-inheritance-tax-filing/)와 실거래 **유무**를 봅니다. 감정은 **필수**가 아니라 **검토** 옵션인 사건이 많고, [유사매매](/posts/similar-transaction-appraisal-needed/)에서 갈림이 잡힙니다. 세무사 **1차** 상담에서 「감정 없이」 방향이 가능한지 먼저 묻는 편이 낫습니다.
 
 ### 상황 2: 이미 감정서가 있는데 신고 전
 
-- **배경:** 은행 **담보**·지인 소개 등으로 받은 보고서만 있음.
-- **읽는 법:** [감정서 읽기](/posts/appraisal-report-reading-basics/)—**목적·기준일**이 상속·증여와 맞는지.
-- **감정평가:** 불일치 시 **재의뢰**—[소급](/posts/retroactive-appraisal-when/) 또는 개시일 명시.
-- **실무 포인트:** 숫자만 세무사에게 넘기지 말고 **표지+본문** 전체.
+은행 **담보**·소개로 받은 보고서만 있는 경우, [감정서 읽기](/posts/appraisal-report-reading-basics/)로 **목적·기준일**이 상속·증여와 맞는지 확인합니다. 맞지 않으면 [소급](/posts/retroactive-appraisal-when/)이나 개시일을 명시한 **재의뢰**가 필요합니다. 숫자만 넘기지 말고 **표지+본문** 전체를 세무사에게 넘깁니다.
 
 ### 상황 3: 신고 기한이 임박했을 때
 
-- **배경:** 6개월 기한·가족 합의 지연으로 **시간 부족**.
-- **읽는 법:** 이 FAQ → [준비서류](/posts/inheritance-gift-appraisal-documents/) → 유형별 1편 → [비용](/posts/inheritance-appraisal-cost-how/) **동시** 문의.
-- **감정평가:** 서류 **한 세트**로 넘기면 일정 단축. 등기·임대 **누락**이 가장 큰 지연 원인.
-- **실무 포인트:** 감정 **기한**이 신고 **기한**을 늘려 주지는 **않습니다**.
+기한·가족 합의 지연으로 시간이 부족하면, 이 FAQ → [준비서류](/posts/inheritance-gift-appraisal-documents/) → 유형별 1편 → [비용](/posts/inheritance-appraisal-cost-how/)을 **동시에** 봅니다. 서류 **한 세트**로 넘기면 일정이 단축되고, 등기·임대 **누락**이 가장 큰 지연 원인입니다. 감정 일정이 신고 **기한을 늘려 주지는 않습니다**.
 
 ![FAQ—의뢰 전 세 가지 패턴](/images/inheritance-gift-faq-scenarios.png)
 
@@ -170,9 +161,9 @@ summary: "상속·증여 감정평가 의뢰 전 자주 묻는 질문과 관련 
 
 특정 업체 **추천은 하지 않습니다.** **목적·기준일**을 말했을 때 절차를 설명하는지, [준비서류](/posts/inheritance-gift-appraisal-documents/)를 요구하는지, **과장 약속**(「무조건 낮게」)을 하지 않는지 보면 됩니다.
 
-### Q. 30편 중 A급·B급이 있나요?
+### Q. 어디서부터 읽으면 되나요?
 
-독자 입장에서는 **주제별 깊이**만 보면 됩니다. [평가 순서](/posts/official-price-inheritance-tax-filing/)·[감정평가란](/posts/what-is-real-estate-appraisal/)·이 FAQ·[아파트](/posts/apartment-inheritance-appraisal-checklist/)·[등기](/posts/registry-read-inheritance-appraisal/)·[유사매매](/posts/similar-transaction-appraisal-needed/)는 **먼저** 읽을 만한 글입니다.
+위 **읽는 순서**표의 2 → 3 → 4가 가장 빠릅니다. 막히면 이 FAQ의 10문 표에서 해당 질문의 **상세 글**로 넘어가면 됩니다.
 
 ### Q. 블로그 글을 세무서에 제출해도 되나요?
 
@@ -180,6 +171,8 @@ summary: "상속·증여 감정평가 의뢰 전 자주 묻는 질문과 관련 
 
 ---
 
-30편 **허브**로, 막히면 [평가 순서](/posts/official-price-inheritance-tax-filing/)로 돌아가 **시가 단계인지 보충적 평가 단계인지**부터 가르면 됩니다.
+의뢰 전 질문이 막히면 [평가 순서](/posts/official-price-inheritance-tax-filing/)로 돌아가 **시가 단계인지 보충적 평가 단계인지**부터 가르면 됩니다.
+
+※ 본 글은 상속·증여 감정평가에 대한 일반적인 안내입니다. 개별 사건의 세무·법률 판단은 구체적인 사실관계에 따라 달라질 수 있으므로, 세무사·변호사 등 관련 전문가와 함께 검토하시기 바랍니다.
 
 **참고:** [국세청 상속·증여 재산 평가](https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=7723&mi=2330) · [감정평가에 관한 법률](https://www.law.go.kr/법령/감정평가에관한법률)

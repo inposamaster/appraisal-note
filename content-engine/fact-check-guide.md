@@ -5,19 +5,22 @@
 발행 주체가 전문가가 아니어도, **검증 절차를 강화**하면 발행 품질을 지킬 수 있다.  
 글 톤을 「잘 몰라서」로 바꾸는 것이 아니라, **아래 절차를 통과한 글만** `draft: false`로 올린다.
 
+**전체 순서 SSOT:** `PIPELINE.md`
+
 ---
 
-## 발행 전 5단계 (필수)
+## 발행 전 절차 (필수)
 
 ```
-1. AI 초안 생성 (draft: true)
-2. article-ai-review-prompt.md — AI 1차 점검
-3. reviews/{slug}-review.md — Claim Log 작성·출처 대조  ← 핵심
-4. quality-checklist.md — 사람 검수
-5. 전부 통과 시 draft: false
+1. AI 초안 생성 (draft: true)                    ← PIPELINE §2
+2. article-ai-review-prompt.md — AI 1차 점검     ← §3
+3. article-visual-enhance-prompt.md — PNG 3장   ← §4
+4. reviews/{slug}-review.md — Claim Log         ← §5  ← 핵심
+5. quality-checklist.md — 사람 검수              ← §6
+6. 전부 통과 시 draft: false · published         ← §7
 ```
 
-**3번을 건너뛰지 않는다.** 전문 지식이 없을수록 Claim Log가 중요하다.
+**4번(Claim Log)을 건너뛰지 않는다.** 전문 지식이 없을수록 Claim Log가 중요하다.
 
 ---
 
@@ -68,6 +71,7 @@ Claim Log를 **세무사 또는 감정평가사**에게 보내 「이 표현 틀
 
 ## 관련 문서
 
+- `PIPELINE.md`
 - `reviews/_template.md`
 - `quality-checklist.md`
 - `quality-standard.md` § 발행 글 vs 검수

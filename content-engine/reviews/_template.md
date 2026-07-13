@@ -87,7 +87,7 @@
 |---|---|
 | Claim Log 전 항목 처리 | [ ] |
 | quality-checklist.md | [ ] |
-| content-plan.csv status | drafted → published |
+| content-plan.csv status | planned → **published** (발행 후) |
 
 보류 사유:
 

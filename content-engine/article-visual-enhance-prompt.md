@@ -8,7 +8,9 @@
 - `article-generation-prompt.md`로 뽑은 초안에 시각 요소가 부족할 때
 - 3편 품질 보강(사실·구조)이 끝난 뒤, 4편 레이어를 추가할 때
 
-**순서:** 내용 확정(3편) → 이 프롬프트(4편) → **PNG 3장 생성·삽입** → Claim Log → 발행
+**순서 SSOT:** `PIPELINE.md` §4 → §5
+
+내용 확정(초안+AI리뷰) → 이 프롬프트(시각+PNG) → Claim Log → checklist → 발행
 
 ---
 

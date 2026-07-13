@@ -8,10 +8,7 @@
 1. `content-plan.csv`에서 이번 행 선택
 2. 아래 프롬프트 `{...}` 채우기
 3. Cursor Agent 실행 → `draft: true` 확인
-4. `article-ai-review-prompt.md` 1회 실행
-5. (필요 시) `article-visual-enhance-prompt.md` 시각 2차 패스
-6. `reviews/{slug}-review.md` **Claim Log** 작성·출처 대조
-7. `quality-checklist.md` 사람 검수
+4. 이후 `PIPELINE.md` 3~7단계 (AI 리뷰 → 시각+PNG → Claim Log → 검수 → 발행)
 
 ---
 
@@ -49,7 +46,10 @@
 
 1. Hugo front matter: title, date(오늘 ISO8601 +09:00), draft:true, description, categories(1개, taxonomy.md), tags
 2. # 제목 (suggested_title)
-3. 서론: 두괄식. 첫 문장에서 검색자 질문에 답. 예고형 서론 금지.
+3. 서론: 두괄식. **독자 시점**으로 시작(질문·현장 말 가능). 첫 문단에서 검색자 질문에 답.
+   - **금지:** 「이 글은 입구/허브입니다」, 「이 글에서는」 메타 선언으로 열기
+   - **금지:** 「접수에서」「접수 데스크에서」로 서론 열기 → 「문의할 때」「의뢰를 알아볼 때」
+   - 용어를 면허·자격 **한쪽으로만** 좁혀 단정하지 마라. 자격 구분은 FAQ·헷갈림 표로.
 4. 핵심 요약: 인용 블록 3~5줄 (`visual-elements.md` 요약 박스)
 5. H2: 4~6개, 질문 형태. article-template.md의 content_type 가이드 따름.
 6. 시각 요소 (`visual-elements.md` 분량 가이드):
@@ -83,9 +83,9 @@
 ## 톤·알맹이
 
 - 「세무사에게 확인」만 반복하지 마라. **구체 정보**(평가 순서, 유형별 표, 상황별 갈림)가 본문에 있어야 한다.
-- **현장 관찰** 1곳 이상: 접수·의뢰 맥락에서 반복되는 질문·지연 (가명 인물 금지).
-- **가상 상황** 2곳 이상: 「이해를 돕기 위한 가상 상황」으로 유형별 walkthrough.
-- 문장은 짧게. 서론 도입은 글마다 다르게.
+- **현장 관찰** 1곳 이상: 문의·의뢰에서 반복되는 질문·지연 (가명 인물 금지). **독자 시점** 문장. 「접수에서」는 남용 금지.
+- **가상 상황** 2곳 이상: 「이해를 돕기 위한 가상 상황」으로 유형별 walkthrough. **글마다 같은 4줄 불릿 템플릿 반복 금지.**
+- 문장은 짧게. 서론 도입은 글마다 다르게. 자세한 기준: `quality-standard.md` §6-1.
 - **강조 + 「」:** `**「…」**`는 Goldmark에서 볼드가 **깨짐** → `<strong>「…」</strong>` 사용 (hugo.toml `unsafe=true` 설정됨). 또는 `** 「…」 **`(앞뒤 공백).
 ~~~~
 
@@ -106,9 +106,10 @@
 
 ## 생성 후 (발행 주체)
 
+`PIPELINE.md` 3~7단계 순서대로:
+
 - [ ] `article-ai-review-prompt.md`
-- [ ] (필요 시) `article-visual-enhance-prompt.md`
+- [ ] `article-visual-enhance-prompt.md` (PNG 3장)
 - [ ] `reviews/{slug}-review.md` 사실 확인
 - [ ] `quality-checklist.md` (D. 시각 요소 포함)
-- [ ] Mermaid → PNG 교체 (`static/images/`, 발행 직전)
-- [ ] `content-plan.csv` → `drafted`
+- [ ] `draft: false` · `content-plan.csv` → `published`

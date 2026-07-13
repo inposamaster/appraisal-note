@@ -20,21 +20,21 @@
 | 열 | 값 예시 |
 |---|---|
 | validation_status | 후보 / 검증완료 / 보류 |
-| status | planned / drafted / published |
+| status | **planned** / **published** (`drafted` 사용 안 함 — `GLOSSARY.md`) |
 | competition_note | 1페이지 블로그 2개 |
 | memo | 검증일, 수정 메모 |
 
 ## 필터
 
-- `month = 1` → 1개월차만
+- `month = 4` → Phase 2 (4개월차)만
 - `status ≠ published` → 미발행 글만
 
 ## content-plan.csv 열 설명
 
 | 열 | 설명 |
 |---|---|
-| month | 1~3개월차 |
-| priority | 발행 순서 1~23 |
+| month | 1~3 = Phase 1 · **4** = Phase 2 (4개월차) |
+| priority | 발행 순서 **1~42** |
 | suggested_title | 글 제목 (H1) |
 | seed_keyword | 주제 묶음 |
 | keyword | 핵심 검색어 |

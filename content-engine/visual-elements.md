@@ -132,11 +132,19 @@ Hugo `static/images/` → URL `/images/파일명.png`
 
 출처가 애매하면 **쓰지 않는다**.
 
-### alt·캡션
+### alt·캡션·파일명
 
 - **alt:** 그림을 한 문장으로 정직하게 설명 (키워드 자연스럽게 1회)
 - **캡션:** 독자가 기억할 **한 줄 메시지** (빈 말 금지)
-- 파일명: `inheritance-valuation-order-flow.png` (내용 영문, `IMG_2034` 금지)
+
+**PNG 파일명 (둘 중 하나, 글당 일관되게):**
+
+| 방식 | 패턴 | 예 |
+|------|------|-----|
+| **A. slug 접두** (신규 글 권장) | `{slug}-flow.png` / `-compare.png` / `-scenarios.png` | `appraisal-timeline-how-long-flow.png` |
+| **B. 의미 기반** (Phase 1 레거시) | 주제-역할 영문 | `inheritance-appraisal-cost-factors.png` |
+
+`IMG_2034` 같은 무의미 파일명 금지. **3장 역할**(흐름·비교·상황)은 동일.
 
 ---
 
@@ -163,16 +171,8 @@ Hugo `static/images/` → URL `/images/파일명.png`
 
 ## 워크플로 위치
 
+`PIPELINE.md` §4 — AI 리뷰(§3) 다음, Claim Log(§5) 이전.
+
 ```
-초안 생성 (article-generation-prompt) — 표·박스·Mermaid 포함
-    ↓
-AI 리뷰 (article-ai-review-prompt)
-    ↓
-시각 2차 패스 (article-visual-enhance-prompt) — PNG 3장 생성·삽입
-    ↓
-Claim Log + quality-checklist (D. 시각 요소)
-    ↓
-PNG 3장 한글·내용 검수
-    ↓
-발행 (git push → GitHub Pages)
+AI 리뷰 → 시각 2차 + PNG 3장 → Claim Log → checklist → 발행
 ```
