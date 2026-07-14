@@ -31,6 +31,14 @@
 
 ---
 
+## 역검수 큐 (기발행)
+
+Tier 0·1·2 **전부 완료** (2026-07-14) — 허브 8 + Tier1 11 + Tier2 12  
+SSOT: `content-engine/reviews/retro-audit-queue.md`  
+**다음 작업:** Phase 2 priority **32** `gift-appraisal-cost-how` 생산
+
+---
+
 ## 파이프라인
 
 0~7단계: `content-engine/PIPELINE.md`

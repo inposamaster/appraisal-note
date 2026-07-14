@@ -47,11 +47,13 @@
 1. Hugo front matter: title, date(오늘 ISO8601 +09:00), draft:true, description, categories(1개, taxonomy.md), tags
 2. # 제목 (suggested_title)
 3. 서론: 두괄식. **독자 시점**으로 시작(질문·현장 말 가능). 첫 문단에서 검색자 질문에 답.
+   - **선행:** `quality-standard.md` §1-1 — **맥락·호기심** (실제로 궁금해할 화두인가?)
    - **금지:** 「이 글은 입구/허브입니다」, 「이 글에서는」 메타 선언으로 열기
    - **금지:** 「접수에서」「접수 데스크에서」로 서론 열기 → 「문의할 때」「의뢰를 알아볼 때」
+   - **금지:** 업계 용어명만 넣은 가짜 질문 (예: 「우리 집은 비교법인가요」)
    - 용어를 면허·자격 **한쪽으로만** 좁혀 단정하지 마라. 자격 구분은 FAQ·헷갈림 표로.
 4. 핵심 요약: 인용 블록 3~5줄 (`visual-elements.md` 요약 박스)
-5. H2: 4~6개, 질문 형태. article-template.md의 content_type 가이드 따름.
+5. H2: 4~6개. 질문형 가능하되 **§1-1을 통과한 화두만**. article-template.md의 content_type 가이드 따름.
 6. 시각 요소 (`visual-elements.md` 분량 가이드):
    - 표 **1~2개** (비교·정리)
    - 주의 박스 **0~1개** (본문 중간, 해당 시)

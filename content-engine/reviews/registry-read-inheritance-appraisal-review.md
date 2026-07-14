@@ -69,3 +69,15 @@ content-plan: priority 3, `drafted`
 - [x] PNG 3장 한글·내용 육안 확인 (AI)
 - [x] `draft: false` 승인
 - [x] content-plan priority3 → published
+
+---
+
+## 6. 역검수 (2026-07-14) · Tier 1 #3
+
+| 진단 | 조치 |
+|------|------|
+| 「접수 데스크」「여기서는」「상담 데스크」 | 독자 시점 |
+| 상황 4건 4~5줄 템플릿 | 산문 |
+| YMYL ※ 누락 | 추가 |
+
+**판정: 통과** (보완 반영)
