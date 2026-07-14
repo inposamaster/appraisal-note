@@ -110,6 +110,24 @@ buildExpired = false
   url = "/search/"
   weight = 40
 
+[[menu.main]]
+  identifier = "about"
+  name = "소개"
+  url = "/about/"
+  weight = 90
+
+[[menu.main]]
+  identifier = "contact"
+  name = "연락처"
+  url = "/contact/"
+  weight = 91
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "개인정보"
+  url = "/privacy/"
+  weight = 92
+
 [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
