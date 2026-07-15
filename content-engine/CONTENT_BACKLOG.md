@@ -1,7 +1,9 @@
 # 콘텐츠 백로그 (안내)
 
-**발행 계획 SSOT:** `content-engine/content-plan.csv`  
-**용어·단계:** `content-engine/GLOSSARY.md` · `content-engine/PIPELINE.md`
+**공개 사이트에 올리지 않는 내부 문서.** (이전 `content/CONTENT_BACKLOG.md` → 여기로 이동, 색인·사이트맵 노출 차단)
+
+**발행 계획 SSOT:** `content-plan.csv`  
+**용어·단계:** `GLOSSARY.md` · `PIPELINE.md`
 
 | 문서 | 역할 |
 |------|------|
@@ -34,11 +36,11 @@
 ## 역검수 큐 (기발행)
 
 Tier 0·1·2 **전부 완료** (2026-07-14) — 허브 8 + Tier1 11 + Tier2 12  
-SSOT: `content-engine/reviews/retro-audit-queue.md`  
-**다음 작업:** Phase 2 priority **33** (부담부증여) · 승인 대기 중 품질·시스템화 병행
+SSOT: `reviews/retro-audit-queue.md`  
+**다음 작업:** Depth pass (§1-2) · Phase 2 priority **33** · 승인 대기 중 품질 병행
 
 ---
 
 ## 파이프라인
 
-0~7단계: `content-engine/PIPELINE.md`
+0~7단계: `PIPELINE.md`

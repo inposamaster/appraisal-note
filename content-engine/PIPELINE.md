@@ -100,7 +100,7 @@
 | 2 | `content-plan.csv` → `status: published` |
 | 3 | `publish-schedule.csv` 날짜 기록 (선택·권장) |
 | 4 | git commit (`inposamaster`) → push → 라이브 URL 확인 |
-| 5 | `CONTENT_BACKLOG.md`·스프린트 md 진행 상태 갱신 |
+| 5 | `content-engine/CONTENT_BACKLOG.md`·스프린트 md 진행 상태 갱신 |
 
 **한 글당 주 1편 리듬 권장** (4개월차: 주 3편 = 월·수·금).
 

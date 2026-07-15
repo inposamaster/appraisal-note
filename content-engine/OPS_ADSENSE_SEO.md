@@ -80,7 +80,15 @@
 | Search Console | 도메인·URL 접두 검증 (`static/google*.html`) |
 | 구조 | H1 1개, 내부링크, `description` front matter |
 
-**발행 후:** Search Console URL 검사(선택), 색인 요청은 남용하지 않음.
+**발행 후:** Search Console URL 검사(선택), 색인 요청은 남용하지 않음.  
+허브만 드물게: `/` · `official-price-inheritance-tax-filing` · `inheritance-gift-appraisal-faq` · `/about/` · `/contact/`.
+
+### 색인·사이트맵 위생 (2026-07-15)
+
+| URL | 조치 |
+|-----|------|
+| `/content_backlog/` | **삭제(비공개)** — `content-engine/CONTENT_BACKLOG.md`로 이동 |
+| `/search/` · `/archives/` | `robotsNoIndex` + `sitemap.disable` + `build.list=never` |
 
 ---
 
@@ -88,11 +96,11 @@
 
 | 항목 | 위치·상태 |
 |------|-----------|
-| 서치어드바이저 | 사이트 등록됨 · 소유확인 **메타 태그** (`params.analytics.naver`) |
-| 검증 content | `181d00c56490b8d7b652bfd15adeba5aeb7b28cc` (2026-07-15) |
-| 사이트맵 제출 | 배포·소유확인 후 `https://appraisal-note.inposa.net/sitemap.xml` |
+| 서치어드바이저 | **소유확인 완료** (2026-07-15) · 메타 (`params.analytics.naver`) |
+| 검증 content | `181d00c56490b8d7b652bfd15adeba5aeb7b28cc` |
+| 사이트맵 제출 | **완료** · `https://appraisal-note.inposa.net/sitemap.xml` |
 | 제목·본문 | 한국어 자연어, 키워드 스터핑 금지 |
-| RSS | Hugo RSS 피드 활용 가능 |
+| RSS | 사이트맵과 별도 제출 권장: `https://appraisal-note.inposa.net/index.xml` |
 | 중복 | 다른 블로그·네이버 블로그에 **동일 글** 미게시 |
 
 네이버 API·심층 키워드: `content-engine/_archive/keyword-research/`
@@ -113,10 +121,10 @@
 | 항목 | 상태 |
 |------|------|
 | GSC 속성·사이트맵 | **성공** · 발견 124 (2026-07-12) · `site:`는 누적 대기 |
-| 네이버 소유확인 태그 | 코드 반영 · **배포 후** 어드바이저에서 확인 클릭 |
-| GA4 | `G-1TLH9DQ9S0` (계정 인포사 · 속성 감정평가 노트 · 스트림 `15258765109`) |
+| 네이버 | **소유확인·사이트맵 제출 완료** (2026-07-15) |
+| GA4 | `G-1TLH9DQ9S0` · **실시간 사용자 확인 완료** (2026-07-15) |
 | privacy | GA4 수집 고지 (2026-07-15) |
-| 주간 5분 / 월간 점검 | 표본 쌓인 뒤 본격화 |
+| 주간 5분 / 월간 점검 | 표본 쌓인 뒤 본격화 · GSC↔GA4 링크는 선택 |
 
 ---
 

@@ -47,4 +47,4 @@
 ## 관련
 
 - `../PIPELINE.md` § 0
-- `../../content/CONTENT_BACKLOG.md` — 진행 요약 (CSV와 동기화)
+- `../CONTENT_BACKLOG.md` — 진행 요약 (CSV와 동기화 · 사이트 미발행)

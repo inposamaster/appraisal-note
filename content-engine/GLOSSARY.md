@@ -76,7 +76,7 @@
 | `content-engine/planning/` | 스프린트·키워드 풀 (0단계 산출물) |
 | `content-engine/reviews/` | 글별 Claim Log (**내부**, 본문 링크 금지) |
 | `static/images/` | 발행용 PNG (`/images/...` URL) |
-| `content/CONTENT_BACKLOG.md` | 사람용 진행 요약 (**SSOT 아님** — CSV 동기화) |
+| `content-engine/CONTENT_BACKLOG.md` | 사람용 진행 요약 (**SSOT 아님** · **비공개**, CSV 동기화) |
 
 ---
 
