@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/
+Disallow: /archives/
+Disallow: /content_backlog/
+Allow: /
+
+Sitemap: https://appraisal-note.inposa.net/sitemap.xml

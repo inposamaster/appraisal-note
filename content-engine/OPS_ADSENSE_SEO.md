@@ -87,8 +87,8 @@
 
 | URL | 조치 |
 |-----|------|
-| `/content_backlog/` | **삭제(비공개)** — `content-engine/CONTENT_BACKLOG.md`로 이동 |
-| `/search/` · `/archives/` | `robotsNoIndex` + `sitemap.disable` + `build.list=never` |
+| `/content_backlog/` | **noindex + robots Disallow + 안전 stub** (`content/content_backlog.md`) · 내부 SSOT는 `content-engine/CONTENT_BACKLOG.md` |
+| `/search/` · `/archives/` | `robotsNoIndex` + `sitemap.disable` + `build.list=never` + `static/robots.txt` Disallow |
 
 ---
 

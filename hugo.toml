@@ -4,7 +4,7 @@ defaultContentLanguage = "ko"
 title = "감정평가 노트"
 theme = "PaperMod"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 buildDrafts = false
 buildFuture = false
 buildExpired = false
