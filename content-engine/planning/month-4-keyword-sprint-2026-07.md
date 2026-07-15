@@ -98,11 +98,11 @@
 
 ---
 
-## 6. 31호 — 발행 완료 (2026-07-13)
+## 6. 31·32호 — 발행 완료
 
-- `appraisal-timeline-how-long.md` · `draft: false` · `content-plan` **published**
-- PNG 3장 · `reviews/appraisal-timeline-how-long-review.md` · checklist 통과
-- **다음:** priority **32** `gift-appraisal-cost-how` (`planned`, `content/posts/` 파일 없음)
+- **31** `appraisal-timeline-how-long` — 2026-07-13
+- **32** `gift-appraisal-cost-how` — 2026-07-15 · PNG 3 · review · 상속 비용 글과 **기준일·시점** 분리
+- **다음:** priority **33** `burden-gift-appraisal-difference` (`planned`)
 
 ---
 

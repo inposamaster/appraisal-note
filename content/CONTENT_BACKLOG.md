@@ -23,9 +23,9 @@
 ## Phase 2 진행 (4개월차)
 
 - **12편** priority 31~42 · `validation_status: 검증완료`
-- **1주차:** 31 ✅ · 32 · 33 (`planned`)
-- **31호** `appraisal-timeline-how-long` — **발행 완료** (2026-07-13, PNG 3장·review 완료)
-- **다음 생산:** priority **32** `gift-appraisal-cost-how`
+- **1주차:** 31 ✅ · **32 ✅** · 33 (`planned`)
+- **32호** `gift-appraisal-cost-how` — **발행** (2026-07-15, PNG 3·review)
+- **다음 생산:** priority **33** `burden-gift-appraisal-difference`
 
 주간 리듬: 월 초안 → 수 시각·Claim Log → 금 사람 검수·발행 (`PIPELINE.md`)
 
@@ -35,7 +35,7 @@
 
 Tier 0·1·2 **전부 완료** (2026-07-14) — 허브 8 + Tier1 11 + Tier2 12  
 SSOT: `content-engine/reviews/retro-audit-queue.md`  
-**다음 작업:** Phase 2 priority **32** `gift-appraisal-cost-how` 생산
+**다음 작업:** Phase 2 priority **33** (부담부증여) · 승인 대기 중 품질·시스템화 병행
 
 ---
 

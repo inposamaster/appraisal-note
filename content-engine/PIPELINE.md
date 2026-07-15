@@ -48,8 +48,9 @@
 - 도구: `article-generation-prompt.md` + `article-template.md` + `visual-elements.md`
 - 출력: `content/posts/{target_slug}.md`
 - **필수:** `draft: true`, 핵심 요약 박스, 표 1~2, FAQ 3, YMYL 고지 초안
+- **필수 사전 한 줄:** 「검색자가 가져갈 본체 = ___」(`quality-standard` §1-2). 없으면 생성 보류
 - **Mermaid:** 절차·분기 헷갈리면 1개 (PNG 교체용 주석 포함)
-- **하지 말 것:** PNG 파일 생성, `draft: false`
+- **하지 말 것:** PNG 파일 생성, `draft: false`, 형제 글 스킨 복제
 
 ---
 
