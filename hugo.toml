@@ -9,6 +9,10 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
+# GA4 (계정: 인포사 · 속성: 감정평가 노트 · 스트림 15258765109)
+[services.googleAnalytics]
+  ID = "G-1TLH9DQ9S0"
+
 [markup.goldmark.renderer]
   unsafe = true
 
@@ -82,6 +86,11 @@ buildExpired = false
   [params.adsense]
     publisher = "ca-pub-6632240269170834"
     enabled = true
+
+  # 검색엔진 소유 확인 (네이버 서치어드바이저 HTML 메타)
+  [params.analytics]
+    [params.analytics.naver]
+      SiteVerificationTag = "181d00c56490b8d7b652bfd15adeba5aeb7b28cc"
 
   [params.homeInfoParams]
     Eyebrow = "내 집 마련을 위하여"
