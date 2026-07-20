@@ -25,10 +25,10 @@
 ## Phase 2 진행 (4개월차)
 
 - **12편** priority 31~42 · `validation_status: 검증완료`
-- **1주차:** 31 ✅ · 32 ✅ · **33 ✅**
-- **32호** `gift-appraisal-cost-how` — 발행 (2026-07-15)
-- **33호** `burden-gift-appraisal-difference` — **발행** (2026-07-17, PNG 3·review)
-- **다음 생산:** priority **34** `inheritance-appraisal-fee-deduction`
+- **2주차:** **34 ✅** · 35 (`planned`) · 36 (`planned`)
+- **33호** `burden-gift-appraisal-difference` — 발행 (2026-07-17)
+- **34호** `inheritance-appraisal-fee-deduction` — **발행** (2026-07-20, PNG 3·review)
+- **다음 생산:** priority **35** `officetel-inheritance-appraisal-checklist`
 
 주간 리듬: 월 초안 → 수 시각·Claim Log → 금 사람 검수·발행 (`PIPELINE.md`)
 
@@ -38,7 +38,7 @@
 
 Tier 0·1·2 **전부 완료** (2026-07-14)  
 SSOT: `reviews/retro-audit-queue.md`  
-**다음 작업:** Depth pass (§1-2) · Phase 2 priority **34** · 승인 대기 중 품질 병행
+**다음 작업:** Depth pass (§1-2) · Phase 2 priority **35** · 승인 대기 중 품질 병행
 
 ---
 

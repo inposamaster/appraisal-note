@@ -72,8 +72,9 @@
 |----------|------|------|
 | 32 | gift-appraisal-cost-how | published |
 | 33 | burden-gift-appraisal-difference | published (2026-07-17) |
-| 34 | inheritance-appraisal-fee-deduction | planned ← **다음 생산** |
-| 35~42 | (스프린트) | planned |
+| 34 | inheritance-appraisal-fee-deduction | published (2026-07-20) |
+| 35 | officetel-inheritance-appraisal-checklist | planned ← **다음 생산** |
+| 36~42 | (스프린트) | planned |
 
 역검수 기준(§1-1·§1-2 등)을 **초안부터** 적용.
 
@@ -104,5 +105,5 @@
 | 22 | public-auction-vs-court-auction | ✅ |
 | 23 | property-valuation-committee-relationship | ✅ |
 
-**기발행 Phase 1+31~33호 역검수·신규: 33까지 발행.**  
-**다음:** Phase 2 priority `inheritance-appraisal-fee-deduction` (34) — §1-2를 **초안부터**.
+**기발행 Phase 1+31~34호 신규 발행: 34까지.**  
+**다음:** Phase 2 priority `officetel-inheritance-appraisal-checklist` (35) — §1-2를 **초안부터**.

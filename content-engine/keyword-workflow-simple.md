@@ -64,6 +64,7 @@ CSV는 **`planned` 유지** (초안 완료해도 `drafted`로 바꾸지 않음).
 | 31 | appraisal-timeline-how-long | published |
 | 32 | gift-appraisal-cost-how | published |
 | 33 | burden-gift-appraisal-difference | published |
-| 34 | inheritance-appraisal-fee-deduction | planned ← **다음** |
+| 34 | inheritance-appraisal-fee-deduction | published |
+| 35 | officetel-inheritance-appraisal-checklist | planned ← **다음** |
 
 1편씩 발행. 주 3편은 `month-4-keyword-sprint-2026-07.md` §4 참고.

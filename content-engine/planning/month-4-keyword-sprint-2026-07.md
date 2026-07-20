@@ -98,12 +98,13 @@
 
 ---
 
-## 6. 31~33호 — 발행 완료
+## 6. 31~34호 — 발행 완료
 
 - **31** `appraisal-timeline-how-long` — 2026-07-13
 - **32** `gift-appraisal-cost-how` — 2026-07-15 · PNG 3 · review · 상속 비용 글과 **기준일·시점** 분리
 - **33** `burden-gift-appraisal-difference` — 2026-07-17 · PNG 3 · review · **시가 vs 채무** 분리
-- **다음:** priority **34** (수수료 공제)
+- **34** `inheritance-appraisal-fee-deduction` — 2026-07-20 · PNG 3 · review · **공제 요건·한도** (비용 글과 축 분리)
+- **다음:** priority **35** (오피스텔 체크리스트)
 
 ---
 
